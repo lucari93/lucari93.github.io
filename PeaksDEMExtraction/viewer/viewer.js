@@ -1,6 +1,7 @@
 $(document).ready(function() {
 
   var map = L.map('map');
+  const features = new L.FeatureGroup().addTo(map);
 
   $.getJSON("../config.json", function(config) {
 
@@ -17,9 +18,7 @@ $(document).ready(function() {
       })
 
       $("#patchSelector").on('change', function() {
-        map.eachLayer(function(layer) {
-          map.removeLayer(layer);
-        });
+        features.clearLayers();
         init(this.value);
       })
 
@@ -44,7 +43,7 @@ $(document).ready(function() {
           var zoom = 15;
 
           // add a marker
-          var marker = L.marker([lat, lng], {}).addTo(map);
+          L.marker([lat, lng], {}).addTo(features);
           // set the view
           map.setView([lat, lng], zoom);
         })
@@ -94,7 +93,7 @@ $(document).ready(function() {
             weight: 0,
             fillColor: color,
             fillOpacity: fuzzy / 2,
-          }).addTo(map);
+          }).addTo(features);
         }
 
         function drawPatch(color, patchName) {
@@ -106,7 +105,7 @@ $(document).ready(function() {
             color: color,
             weight: 1,
             fillOpacity: 0
-          }).addTo(map);
+          }).addTo(features);
         }
 
         function getTpFnFp(countryFolder, patch) {
@@ -160,7 +159,7 @@ $(document).ready(function() {
             L.marker([lat, lon], {
               icon: icon,
               title: name + " (" + ele + "m)"
-            }).addTo(map);
+            }).addTo(features);
           }
         }
       }
