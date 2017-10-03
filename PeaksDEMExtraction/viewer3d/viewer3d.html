@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title></title>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
+  <link rel="stylesheet" href="./bootstrap-vertical-grid.css">
+  <link rel="stylesheet" href="./viewer3d.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin=""></script>
+  <script type="text/javascript" src="https://cesiumjs.org/Cesium/ThirdParty/requirejs-2.1.20/require.js"></script>
+  <script type="text/javascript">
+    require.config({
+      baseUrl: 'https://cesiumjs.org/Cesium/Source',
+      waitSeconds: 60
+    });
+  </script>
+  <script type="text/javascript" src="./viewer3d.js"></script>
+</head>
+
+<body class="sandcastle-loading" data-sandcastle-bucket="bucket-requirejs.html">
+  <div class="container-fluid y-grid">
+    <div class="y-row-12 y-row-gutter row">
+      <div class="y100 col-xs-4">
+        <div class="y-row-1 y-row-gutter row">
+          <div class="y100 col-xs-12 vcenter tp">
+            <div class="text-center">
+              <b>TRUE POSITIVE</b>
+            </div>
+          </div>
+        </div>
+        <div class="y-row-3 y-row-gutter row">
+          <div class="y100 col-xs-12 y-scroll tp">
+            <ul id="tp-list" class="list-group"></ul>
+          </div>
+        </div>
+        <div class="y-row-1 y-row-gutter row">
+          <div class="y100 col-xs-12 vcenter fn">
+            <div class="text-center">
+              <b>FALSE NEGATIVE</b>
+            </div>
+          </div>
+        </div>
+        <div class="y-row-3 y-row-gutter row">
+          <div class="y100 col-xs-12 y-scroll fn">
+            <ul id="fn-list" class="list-group"></ul>
+          </div>
+        </div>
+        <div class="y-row-1 y-row-gutter row">
+          <div class="y100 col-xs-12 vcenter fp">
+            <div class="text-center">
+              <b>FALSE POSITIVE</b>
+            </div>
+          </div>
+        </div>
+        <div class="y-row-3 y-row-gutter row">
+          <div class="y100 col-xs-12 y-scroll fp">
+            <ul id="fp-list" class="list-group"></ul>
+          </div>
+        </div>
+      </div>
+      <div class="y100 col-xs-8">
+        <div class="y-row-6 y-row-gutter row">
+          <div class="y100 col-xs-12">
+            <div id="cesiumContainer" class="fill mm"></div>
+          </div>
+        </div>
+        <div class="y-row-1 y-row-gutter row">
+          <div class="y100 col-xs-6">
+            <div class="fill mm vcenter">
+              <div class="text-center">
+                <a href="#" id="maps-link">
+                  Open in Google Maps - Use CRTL + Mouse for 3D mode
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="y100 col-xs-6">
+            <div class="fill mm vcenter">
+              <div class="text-center">
+                <span id="current-title"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="y-row-5 y-row-gutter row">
+          <div class="y100 col-xs-12">
+            <div id="map" class="fill mm">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

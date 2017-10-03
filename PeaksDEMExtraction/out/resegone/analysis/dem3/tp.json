@@ -1,0 +1,4705 @@
+[
+    {
+        "id": 26863030,
+        "name": "Grigna Settentrionale",
+        "ele": "2410",
+        "realCoord": {
+            "lat": 45.9533709,
+            "lon": 9.3877024
+        },
+        "group": 161,
+        "estimatedCoord": {
+            "lat": 45.95278645833333,
+            "lon": 9.387708333333334
+        },
+        "distance": 65.00896839212854
+    },
+    {
+        "id": 26863780,
+        "name": "Monte Alben",
+        "ele": "2019",
+        "realCoord": {
+            "lat": 45.8622222,
+            "lon": 9.7819444
+        },
+        "group": 416,
+        "estimatedCoord": {
+            "lat": 45.86228571428571,
+            "lon": 9.781642857142858
+        },
+        "distance": 24.402194432150942
+    },
+    {
+        "id": 26863959,
+        "name": "Monte San Primo",
+        "ele": "1681",
+        "realCoord": {
+            "lat": 45.9154362,
+            "lon": 9.2098416
+        },
+        "group": 88,
+        "estimatedCoord": {
+            "lat": 45.91562499999999,
+            "lon": 9.209895833333334
+        },
+        "distance": 21.415448362454402
+    },
+    {
+        "id": 26864315,
+        "name": "Pizzo Arera",
+        "ele": "2512",
+        "realCoord": {
+            "lat": 45.9345913,
+            "lon": 9.8158164
+        },
+        "group": 451,
+        "estimatedCoord": {
+            "lat": 45.934444444444445,
+            "lon": 9.816349206349209
+        },
+        "distance": 44.33571975786752
+    },
+    {
+        "id": 26864438,
+        "name": "Resegone di Lecco",
+        "ele": "1875",
+        "realCoord": {
+            "lat": 45.8584126,
+            "lon": 9.4688633
+        },
+        "group": 209,
+        "estimatedCoord": {
+            "lat": 45.85851851851852,
+            "lon": 9.468981481481482
+        },
+        "distance": 14.920116653113777
+    },
+    {
+        "id": 26864942,
+        "name": "Monte Torrezzo",
+        "ele": "1378",
+        "realCoord": {
+            "lat": 45.7583381,
+            "lon": 9.9626213
+        },
+        "group": 556,
+        "estimatedCoord": {
+            "lat": 45.75833333333333,
+            "lon": 9.962916666666667
+        },
+        "distance": 22.927625405227502
+    },
+    {
+        "id": 282379065,
+        "name": "Monte Cereto",
+        "ele": "936",
+        "realCoord": {
+            "lat": 45.7648039,
+            "lon": 9.7726854
+        },
+        "group": 405,
+        "estimatedCoord": {
+            "lat": 45.76500000000001,
+            "lon": 9.771458333333335
+        },
+        "distance": 97.67998626711977
+    },
+    {
+        "id": 307214395,
+        "name": "Monte Corte",
+        "ele": "2430",
+        "realCoord": {
+            "lat": 45.9836198,
+            "lon": 9.8256305
+        },
+        "group": 458,
+        "estimatedCoord": {
+            "lat": 45.983166666666676,
+            "lon": 9.825416666666667
+        },
+        "distance": 53.04246548197823
+    },
+    {
+        "id": 314469663,
+        "name": "Monte Bolettone",
+        "ele": "1320",
+        "realCoord": {
+            "lat": 45.8371419,
+            "lon": 9.1793759
+        },
+        "group": 68,
+        "estimatedCoord": {
+            "lat": 45.83708333333333,
+            "lon": 9.180972222222222
+        },
+        "distance": 123.87662434574109
+    },
+    {
+        "id": 355313919,
+        "name": "Canto Alto",
+        "ele": "1146",
+        "realCoord": {
+            "lat": 45.770042,
+            "lon": 9.669942
+        },
+        "group": 343,
+        "estimatedCoord": {
+            "lat": 45.7702380952381,
+            "lon": 9.670277777777777
+        },
+        "distance": 33.9772823717228
+    },
+    {
+        "id": 457365444,
+        "name": "Pizzo della Croce",
+        "ele": "1489",
+        "realCoord": {
+            "lat": 45.9360539,
+            "lon": 9.0558509
+        },
+        "group": 25,
+        "estimatedCoord": {
+            "lat": 45.93623737373738,
+            "lon": 9.055202020202021
+        },
+        "distance": 54.184680566921855
+    },
+    {
+        "id": 457365449,
+        "name": "Monte Luria",
+        "ele": "1286",
+        "realCoord": {
+            "lat": 45.972618,
+            "lon": 9.0954838
+        },
+        "group": 37,
+        "estimatedCoord": {
+            "lat": 45.972341269841266,
+            "lon": 9.095238095238093
+        },
+        "distance": 36.16945853399164
+    },
+    {
+        "id": 457365462,
+        "name": "Monte d'Orimento",
+        "ele": "1383",
+        "realCoord": {
+            "lat": 45.9501288,
+            "lon": 9.039036
+        },
+        "group": 20,
+        "estimatedCoord": {
+            "lat": 45.95008333333334,
+            "lon": 9.038666666666668
+        },
+        "distance": 29.0071581465304
+    },
+    {
+        "id": 457365464,
+        "name": "Monte Alpe Nuovo",
+        "ele": "1192",
+        "realCoord": {
+            "lat": 45.9611897,
+            "lon": 9.040241
+        },
+        "group": 21,
+        "estimatedCoord": {
+            "lat": 45.96227272727272,
+            "lon": 9.039393939393939
+        },
+        "distance": 137.11812147477602
+    },
+    {
+        "id": 457365466,
+        "name": "Poncione della Costa",
+        "ele": "1251",
+        "realCoord": {
+            "lat": 45.8788822,
+            "lon": 9.0932458
+        },
+        "group": 36,
+        "estimatedCoord": {
+            "lat": 45.87869047619048,
+            "lon": 9.092380952380953
+        },
+        "distance": 70.283569661457
+    },
+    {
+        "id": 457365469,
+        "name": "Pizzo Meda",
+        "ele": "890",
+        "realCoord": {
+            "lat": 45.854059,
+            "lon": 9.0520736
+        },
+        "group": 23,
+        "estimatedCoord": {
+            "lat": 45.85416666666666,
+            "lon": 9.052083333333334
+        },
+        "distance": 11.999460769824443
+    },
+    {
+        "id": 457365475,
+        "name": "Monte Bisbino",
+        "ele": "1325",
+        "realCoord": {
+            "lat": 45.873663,
+            "lon": 9.0665861
+        },
+        "group": 28,
+        "estimatedCoord": {
+            "lat": 45.87340686274509,
+            "lon": 9.066495098039217
+        },
+        "distance": 29.34881580934205
+    },
+    {
+        "id": 457365477,
+        "name": "Sasso Gordona",
+        "ele": "1406",
+        "realCoord": {
+            "lat": 45.9119945,
+            "lon": 9.0809809
+        },
+        "group": 32,
+        "estimatedCoord": {
+            "lat": 45.9116891891892,
+            "lon": 9.080788288288288
+        },
+        "distance": 37.08710310449922
+    },
+    {
+        "id": 457365493,
+        "name": "Monte Caslè",
+        "ele": "1030",
+        "realCoord": {
+            "lat": 45.9935154,
+            "lon": 9.0357763
+        },
+        "group": 19,
+        "estimatedCoord": {
+            "lat": 45.99372222222221,
+            "lon": 9.036277777777777
+        },
+        "distance": 45.065950035940276
+    },
+    {
+        "id": 457365510,
+        "name": "Monte Tre Croci",
+        "ele": "477",
+        "realCoord": {
+            "lat": 45.7893465,
+            "lon": 9.10106
+        },
+        "group": 40,
+        "estimatedCoord": {
+            "lat": 45.78840090090089,
+            "lon": 9.100855855855855
+        },
+        "distance": 106.3639516861287
+    },
+    {
+        "id": 457398061,
+        "name": "Monte San Bernardo",
+        "ele": "1349",
+        "realCoord": {
+            "lat": 45.8964187,
+            "lon": 9.1069628
+        },
+        "group": 43,
+        "estimatedCoord": {
+            "lat": 45.89537878787877,
+            "lon": 9.108636363636363
+        },
+        "distance": 173.6766623106471
+    },
+    {
+        "id": 457398063,
+        "name": "Monte Astele",
+        "ele": "1183",
+        "realCoord": {
+            "lat": 45.8364161,
+            "lon": 9.132776
+        },
+        "group": 56,
+        "estimatedCoord": {
+            "lat": 45.83586419753086,
+            "lon": 9.133518518518517
+        },
+        "distance": 84.139948301181
+    },
+    {
+        "id": 457398064,
+        "name": "Monte Boletto",
+        "ele": "1238",
+        "realCoord": {
+            "lat": 45.8337011,
+            "lon": 9.1423689
+        },
+        "group": 57,
+        "estimatedCoord": {
+            "lat": 45.83326388888889,
+            "lon": 9.142986111111108
+        },
+        "distance": 68.21277208996285
+    },
+    {
+        "id": 457398067,
+        "name": "Monte Comana",
+        "ele": "1210",
+        "realCoord": {
+            "lat": 45.9189394,
+            "lon": 9.1159962
+        },
+        "group": 49,
+        "estimatedCoord": {
+            "lat": 45.91916666666667,
+            "lon": 9.115705128205128
+        },
+        "distance": 33.85715714929424
+    },
+    {
+        "id": 457398069,
+        "name": "Pizzo dei Tre Termini",
+        "ele": "1144",
+        "realCoord": {
+            "lat": 45.8364752,
+            "lon": 9.1250105
+        },
+        "group": 53,
+        "estimatedCoord": {
+            "lat": 45.83583333333333,
+            "lon": 9.125416666666666
+        },
+        "distance": 78.0252747846385
+    },
+    {
+        "id": 457398074,
+        "name": "Monte Colmenacco",
+        "ele": "1261",
+        "realCoord": {
+            "lat": 45.9268612,
+            "lon": 9.1749793
+        },
+        "group": 65,
+        "estimatedCoord": {
+            "lat": 45.926212121212124,
+            "lon": 9.175227272727273
+        },
+        "distance": 74.70259805061812
+    },
+    {
+        "id": 457398076,
+        "name": "Monte Colmegnone",
+        "ele": "1378",
+        "realCoord": {
+            "lat": 45.8924585,
+            "lon": 9.1182818
+        },
+        "group": 51,
+        "estimatedCoord": {
+            "lat": 45.892440476190465,
+            "lon": 9.11833333333333
+        },
+        "distance": 4.464933979884783
+    },
+    {
+        "id": 457398077,
+        "name": "Monte Gringo",
+        "ele": "1079",
+        "realCoord": {
+            "lat": 45.9285046,
+            "lon": 9.1180188
+        },
+        "group": 50,
+        "estimatedCoord": {
+            "lat": 45.92935416666667,
+            "lon": 9.117312500000002
+        },
+        "distance": 109.15874101811148
+    },
+    {
+        "id": 457398080,
+        "name": "Monte Palanzone",
+        "ele": "1435",
+        "realCoord": {
+            "lat": 45.8620611,
+            "lon": 9.2016384
+        },
+        "group": 83,
+        "estimatedCoord": {
+            "lat": 45.86329545454546,
+            "lon": 9.201969696969696
+        },
+        "distance": 139.67463081427576
+    },
+    {
+        "id": 457398081,
+        "name": "Monte Preaola",
+        "ele": "1413",
+        "realCoord": {
+            "lat": 45.8797166,
+            "lon": 9.1839641
+        },
+        "group": 70,
+        "estimatedCoord": {
+            "lat": 45.879950980392145,
+            "lon": 9.184411764705882
+        },
+        "distance": 43.373801857004054
+    },
+    {
+        "id": 457398082,
+        "name": "Monte Puscio",
+        "ele": "1141",
+        "realCoord": {
+            "lat": 45.8401991,
+            "lon": 9.2050255
+        },
+        "group": 86,
+        "estimatedCoord": {
+            "lat": 45.83962121212121,
+            "lon": 9.20496212121212
+        },
+        "distance": 64.4657215638815
+    },
+    {
+        "id": 457398083,
+        "name": "Monte di Faello",
+        "ele": "1335",
+        "realCoord": {
+            "lat": 45.8692094,
+            "lon": 9.1943894
+        },
+        "group": 75,
+        "estimatedCoord": {
+            "lat": 45.86916666666665,
+            "lon": 9.193888888888889
+        },
+        "distance": 39.05451958205273
+    },
+    {
+        "id": 457398085,
+        "name": "Monte di Careno",
+        "ele": "1226",
+        "realCoord": {
+            "lat": 45.8864917,
+            "lon": 9.1738631
+        },
+        "group": 66,
+        "estimatedCoord": {
+            "lat": 45.886833333333335,
+            "lon": 9.174333333333333
+        },
+        "distance": 52.626137534318474
+    },
+    {
+        "id": 457398089,
+        "name": "Pizzo dell'Asino",
+        "ele": "1270",
+        "realCoord": {
+            "lat": 45.8534175,
+            "lon": 9.1914952
+        },
+        "group": 73,
+        "estimatedCoord": {
+            "lat": 45.85371794871794,
+            "lon": 9.192115384615384
+        },
+        "distance": 58.52578590076325
+    },
+    {
+        "id": 457398096,
+        "name": "Cima della Duaria",
+        "ele": "1446",
+        "realCoord": {
+            "lat": 45.984502,
+            "lon": 9.1467062
+        },
+        "group": 59,
+        "estimatedCoord": {
+            "lat": 45.98447222222223,
+            "lon": 9.146750000000003
+        },
+        "distance": 4.736065022919921
+    },
+    {
+        "id": 457398099,
+        "name": "Monte Uccellera",
+        "ele": "1026",
+        "realCoord": {
+            "lat": 45.8269527,
+            "lon": 9.1150244
+        },
+        "group": 48,
+        "estimatedCoord": {
+            "lat": 45.827051282051286,
+            "lon": 9.11519230769231
+        },
+        "distance": 17.017815110609405
+    },
+    {
+        "id": 457398126,
+        "name": "Monte Sertore",
+        "ele": "1393",
+        "realCoord": {
+            "lat": 45.9705806,
+            "lon": 9.1137027
+        },
+        "group": 45,
+        "estimatedCoord": {
+            "lat": 45.97035714285715,
+            "lon": 9.113392857142856
+        },
+        "distance": 34.518655694994095
+    },
+    {
+        "id": 457398137,
+        "name": "Dosso di Lavedo",
+        "ele": "329",
+        "realCoord": {
+            "lat": 45.967141,
+            "lon": 9.1996557
+        },
+        "group": 79,
+        "estimatedCoord": {
+            "lat": 45.96742424242424,
+            "lon": 9.198636363636364
+        },
+        "distance": 84.87145707280624
+    },
+    {
+        "id": 457398138,
+        "name": "Monte di Palanzo",
+        "ele": "1386",
+        "realCoord": {
+            "lat": 45.876257,
+            "lon": 9.1801768
+        },
+        "group": 67,
+        "estimatedCoord": {
+            "lat": 45.8759375,
+            "lon": 9.180208333333333
+        },
+        "distance": 35.62172937489375
+    },
+    {
+        "id": 457402173,
+        "name": "Dosso Fagorato",
+        "ele": "855",
+        "realCoord": {
+            "lat": 45.8157934,
+            "lon": 9.1616956
+        },
+        "group": 62,
+        "estimatedCoord": {
+            "lat": 45.814885057471265,
+            "lon": 9.162528735632185
+        },
+        "distance": 119.91522530851891
+    },
+    {
+        "id": 457470732,
+        "name": "Monte Cornizzolo",
+        "ele": "1240",
+        "realCoord": {
+            "lat": 45.8370925,
+            "lon": 9.3019923
+        },
+        "group": 127,
+        "estimatedCoord": {
+            "lat": 45.8373148148148,
+            "lon": 9.302160493827158
+        },
+        "distance": 27.952824430775646
+    },
+    {
+        "id": 457470741,
+        "name": "Monte Roncaglia",
+        "ele": "1297",
+        "realCoord": {
+            "lat": 45.8988558,
+            "lon": 9.2408562
+        },
+        "group": 106,
+        "estimatedCoord": {
+            "lat": 45.89875,
+            "lon": 9.240583333333333
+        },
+        "distance": 24.179109474631293
+    },
+    {
+        "id": 457470742,
+        "name": "Monte Cornet / Gerbal",
+        "ele": "1316",
+        "realCoord": {
+            "lat": 45.9040942,
+            "lon": 9.2492358
+        },
+        "group": 110,
+        "estimatedCoord": {
+            "lat": 45.904239130434775,
+            "lon": 9.24927536231884
+        },
+        "distance": 16.40884124059195
+    },
+    {
+        "id": 457470743,
+        "name": "Colma Piana",
+        "ele": "1182",
+        "realCoord": {
+            "lat": 45.8580945,
+            "lon": 9.2164371
+        },
+        "group": 91,
+        "estimatedCoord": {
+            "lat": 45.85777777777777,
+            "lon": 9.216388888888888
+        },
+        "distance": 35.426365412337454
+    },
+    {
+        "id": 457470744,
+        "name": "Monte Cippei",
+        "ele": "1230",
+        "realCoord": {
+            "lat": 45.8898615,
+            "lon": 9.2326759
+        },
+        "group": 100,
+        "estimatedCoord": {
+            "lat": 45.8895138888889,
+            "lon": 9.232847222222222
+        },
+        "distance": 40.87653896118459
+    },
+    {
+        "id": 457470747,
+        "name": "Monte Panigas",
+        "ele": "901",
+        "realCoord": {
+            "lat": 45.829642,
+            "lon": 9.2080681
+        },
+        "group": 87,
+        "estimatedCoord": {
+            "lat": 45.829375,
+            "lon": 9.208541666666667
+        },
+        "distance": 47.213796735007996
+    },
+    {
+        "id": 457470757,
+        "name": "Monte Barzaghino",
+        "ele": "1063",
+        "realCoord": {
+            "lat": 45.8470346,
+            "lon": 9.2359503
+        },
+        "group": 101,
+        "estimatedCoord": {
+            "lat": 45.847348484848474,
+            "lon": 9.236098484848482
+        },
+        "distance": 36.752739140626474
+    },
+    {
+        "id": 457470759,
+        "name": "Dosso Mattone",
+        "ele": "1050",
+        "realCoord": {
+            "lat": 45.8508144,
+            "lon": 9.2360808
+        },
+        "group": 103,
+        "estimatedCoord": {
+            "lat": 45.850833333333334,
+            "lon": 9.236458333333331
+        },
+        "distance": 29.325033170815868
+    },
+    {
+        "id": 457470761,
+        "name": "Monte Nuvolone",
+        "ele": "1092",
+        "realCoord": {
+            "lat": 45.9499654,
+            "lon": 9.2321759
+        },
+        "group": 99,
+        "estimatedCoord": {
+            "lat": 45.95028645833332,
+            "lon": 9.232682291666666
+        },
+        "distance": 52.99994957907258
+    },
+    {
+        "id": 457470762,
+        "name": "Monte Pesora",
+        "ele": "1195",
+        "realCoord": {
+            "lat": 45.8350064,
+            "lon": 9.2945374
+        },
+        "group": 126,
+        "estimatedCoord": {
+            "lat": 45.834999999999994,
+            "lon": 9.294583333333334
+        },
+        "distance": 3.630170266572307
+    },
+    {
+        "id": 457470763,
+        "name": "Monte Megna",
+        "ele": "1049",
+        "realCoord": {
+            "lat": 45.8792236,
+            "lon": 9.2795198
+        },
+        "group": 119,
+        "estimatedCoord": {
+            "lat": 45.87916666666667,
+            "lon": 9.279499999999999
+        },
+        "distance": 6.515647289116833
+    },
+    {
+        "id": 457470764,
+        "name": "Monte Garnasca",
+        "ele": "694",
+        "realCoord": {
+            "lat": 45.9609242,
+            "lon": 9.2567256
+        },
+        "group": 112,
+        "estimatedCoord": {
+            "lat": 45.96052083333333,
+            "lon": 9.256510416666664
+        },
+        "distance": 47.85214648332708
+    },
+    {
+        "id": 457470793,
+        "name": "Monte Falò",
+        "ele": "1179",
+        "realCoord": {
+            "lat": 45.8812834,
+            "lon": 9.2259176
+        },
+        "group": 97,
+        "estimatedCoord": {
+            "lat": 45.881166666666665,
+            "lon": 9.226222222222221
+        },
+        "distance": 26.925210932716272
+    },
+    {
+        "id": 457470795,
+        "name": "Castel de Leves",
+        "ele": "966",
+        "realCoord": {
+            "lat": 45.9116457,
+            "lon": 9.2811883
+        },
+        "group": 118,
+        "estimatedCoord": {
+            "lat": 45.91156504065041,
+            "lon": 9.28099593495935
+        },
+        "distance": 17.381570698244996
+    },
+    {
+        "id": 457470796,
+        "name": "Cima del Costone",
+        "ele": "1611",
+        "realCoord": {
+            "lat": 45.9123666,
+            "lon": 9.2210002
+        },
+        "group": 94,
+        "estimatedCoord": {
+            "lat": 45.91250000000001,
+            "lon": 9.222129629629631
+        },
+        "distance": 88.65586908891912
+    },
+    {
+        "id": 457470801,
+        "name": "Monte Forcella",
+        "ele": "1322",
+        "realCoord": {
+            "lat": 45.9233175,
+            "lon": 9.2377916
+        },
+        "group": 104,
+        "estimatedCoord": {
+            "lat": 45.92333333333332,
+            "lon": 9.237277777777777
+        },
+        "distance": 39.795335403280994
+    },
+    {
+        "id": 457470811,
+        "name": "Monte Corbera",
+        "ele": "997",
+        "realCoord": {
+            "lat": 45.9251187,
+            "lon": 9.2578508
+        },
+        "group": 113,
+        "estimatedCoord": {
+            "lat": 45.9253431372549,
+            "lon": 9.256666666666666
+        },
+        "distance": 94.95791686356009
+    },
+    {
+        "id": 457470814,
+        "name": "Ceppo del Mucchio",
+        "ele": "1081",
+        "realCoord": {
+            "lat": 45.9398398,
+            "lon": 9.2240817
+        },
+        "group": 96,
+        "estimatedCoord": {
+            "lat": 45.93964743589741,
+            "lon": 9.224262820512818
+        },
+        "distance": 25.575199004986207
+    },
+    {
+        "id": 457470822,
+        "name": "Monte Spinei",
+        "ele": "588",
+        "realCoord": {
+            "lat": 45.8307196,
+            "lon": 9.2493256
+        },
+        "group": 109,
+        "estimatedCoord": {
+            "lat": 45.83059523809524,
+            "lon": 9.249047619047621
+        },
+        "distance": 25.602792556810247
+    },
+    {
+        "id": 457470826,
+        "name": "Croce di Pizzallo",
+        "ele": "974",
+        "realCoord": {
+            "lat": 45.8545204,
+            "lon": 9.2497049
+        },
+        "group": 108,
+        "estimatedCoord": {
+            "lat": 45.85397727272727,
+            "lon": 9.248977272727274
+        },
+        "distance": 82.62628220199076
+    },
+    {
+        "id": 457470834,
+        "name": "Sguancia",
+        "ele": "941",
+        "realCoord": {
+            "lat": 45.85958,
+            "lon": 9.2962571
+        },
+        "group": 125,
+        "estimatedCoord": {
+            "lat": 45.857424242424244,
+            "lon": 9.29462121212121
+        },
+        "distance": 271.21070164760494
+    },
+    {
+        "id": 457470842,
+        "name": "La Torretta",
+        "ele": "1105",
+        "realCoord": {
+            "lat": 45.8885719,
+            "lon": 9.2488407
+        },
+        "group": 111,
+        "estimatedCoord": {
+            "lat": 45.88791666666667,
+            "lon": 9.249166666666667
+        },
+        "distance": 77.12735359609475
+    },
+    {
+        "id": 457488889,
+        "name": "Pizzo del Cich",
+        "ele": "1454",
+        "realCoord": {
+            "lat": 45.9919948,
+            "lon": 9.3633694
+        },
+        "group": 147,
+        "estimatedCoord": {
+            "lat": 45.99143939393938,
+            "lon": 9.362878787878788
+        },
+        "distance": 72.4840228820654
+    },
+    {
+        "id": 457488904,
+        "name": "Pizzo di Zirlaca",
+        "ele": "1408",
+        "realCoord": {
+            "lat": 45.9982822,
+            "lon": 9.3545567
+        },
+        "group": 143,
+        "estimatedCoord": {
+            "lat": 45.997604166666655,
+            "lon": 9.354947916666665
+        },
+        "distance": 81.25027089771096
+    },
+    {
+        "id": 457488924,
+        "name": "Monte Fopp",
+        "ele": "1090",
+        "realCoord": {
+            "lat": 45.9885052,
+            "lon": 9.3108708
+        },
+        "group": 128,
+        "estimatedCoord": {
+            "lat": 45.988690476190456,
+            "lon": 9.311011904761902
+        },
+        "distance": 23.315606309774157
+    },
+    {
+        "id": 457488940,
+        "name": "Cima Palone",
+        "ele": "1995",
+        "realCoord": {
+            "lat": 45.9717733,
+            "lon": 9.385026
+        },
+        "group": 160,
+        "estimatedCoord": {
+            "lat": 45.97111111111111,
+            "lon": 9.385277777777777
+        },
+        "distance": 76.18354916552916
+    },
+    {
+        "id": 457488941,
+        "name": "Monte Pilastro",
+        "ele": "1827",
+        "realCoord": {
+            "lat": 45.9723109,
+            "lon": 9.3559274
+        },
+        "group": 144,
+        "estimatedCoord": {
+            "lat": 45.97144230769232,
+            "lon": 9.355961538461537
+        },
+        "distance": 96.64941597125559
+    },
+    {
+        "id": 457488971,
+        "name": "Monte Parolo",
+        "ele": "1203",
+        "realCoord": {
+            "lat": 45.978038,
+            "lon": 9.3221655
+        },
+        "group": 131,
+        "estimatedCoord": {
+            "lat": 45.97796296296296,
+            "lon": 9.322685185185184
+        },
+        "distance": 41.028257254643485
+    },
+    {
+        "id": 457489037,
+        "name": "Cimone",
+        "ele": "1496",
+        "realCoord": {
+            "lat": 45.9820453,
+            "lon": 9.3646984
+        },
+        "group": 150,
+        "estimatedCoord": {
+            "lat": 45.98083333333334,
+            "lon": 9.364166666666666
+        },
+        "distance": 140.93268293094695
+    },
+    {
+        "id": 457489041,
+        "name": "Cima di Monte Cucco",
+        "ele": "1432",
+        "realCoord": {
+            "lat": 45.963378,
+            "lon": 9.3295623
+        },
+        "group": 134,
+        "estimatedCoord": {
+            "lat": 45.963878205128196,
+            "lon": 9.32926282051282
+        },
+        "distance": 60.26368525218928
+    },
+    {
+        "id": 457489054,
+        "name": "Cima del Palone",
+        "ele": "2087",
+        "realCoord": {
+            "lat": 45.9670491,
+            "lon": 9.3910291
+        },
+        "group": 166,
+        "estimatedCoord": {
+            "lat": 45.967291666666675,
+            "lon": 9.391000000000002
+        },
+        "distance": 27.074287595787485
+    },
+    {
+        "id": 457506034,
+        "name": "Cima dei Pianchini",
+        "ele": "1397",
+        "realCoord": {
+            "lat": 45.9510652,
+            "lon": 9.3389001
+        },
+        "group": 139,
+        "estimatedCoord": {
+            "lat": 45.95166666666667,
+            "lon": 9.339666666666666
+        },
+        "distance": 89.38747885902394
+    },
+    {
+        "id": 457506039,
+        "name": "Monte della Tagliata",
+        "ele": "1451",
+        "realCoord": {
+            "lat": 45.9561762,
+            "lon": 9.337778
+        },
+        "group": 138,
+        "estimatedCoord": {
+            "lat": 45.95805555555555,
+            "lon": 9.337685185185183
+        },
+        "distance": 209.16357483237294
+    },
+    {
+        "id": 457506043,
+        "name": "Monte Palagia",
+        "ele": "1549",
+        "realCoord": {
+            "lat": 45.9583293,
+            "lon": 9.3372599
+        },
+        "group": 138,
+        "estimatedCoord": {
+            "lat": 45.95805555555555,
+            "lon": 9.337685185185183
+        },
+        "distance": 44.81686863734429
+    },
+    {
+        "id": 457506044,
+        "name": "Cima di Eghen",
+        "ele": "1557",
+        "realCoord": {
+            "lat": 45.9620873,
+            "lon": 9.3449583
+        },
+        "group": 141,
+        "estimatedCoord": {
+            "lat": 45.9615,
+            "lon": 9.345166666666668
+        },
+        "distance": 67.2826446324305
+    },
+    {
+        "id": 457506052,
+        "name": "La Tagliata",
+        "ele": "1397",
+        "realCoord": {
+            "lat": 45.9521436,
+            "lon": 9.3394566
+        },
+        "group": 139,
+        "estimatedCoord": {
+            "lat": 45.95166666666667,
+            "lon": 9.339666666666666
+        },
+        "distance": 55.48087933882861
+    },
+    {
+        "id": 457506085,
+        "name": "Zucco Sileggio",
+        "ele": "1373",
+        "realCoord": {
+            "lat": 45.9455107,
+            "lon": 9.3378533
+        },
+        "group": 137,
+        "estimatedCoord": {
+            "lat": 45.944702380952364,
+            "lon": 9.337946428571428
+        },
+        "distance": 90.19725266650957
+    },
+    {
+        "id": 457506101,
+        "name": "Zuccello di Costa Fontana",
+        "ele": "1376",
+        "realCoord": {
+            "lat": 45.9526375,
+            "lon": 9.3589064
+        },
+        "group": 146,
+        "estimatedCoord": {
+            "lat": 45.95285714285714,
+            "lon": 9.359285714285715
+        },
+        "distance": 38.174782176654894
+    },
+    {
+        "id": 457506175,
+        "name": "Sasso Cavallo",
+        "ele": "1923",
+        "realCoord": {
+            "lat": 45.9469986,
+            "lon": 9.3706568
+        },
+        "group": 152,
+        "estimatedCoord": {
+            "lat": 45.94666666666667,
+            "lon": 9.370476190476191
+        },
+        "distance": 39.47494636156062
+    },
+    {
+        "id": 457506178,
+        "name": "Il Zuccone",
+        "ele": "1884",
+        "realCoord": {
+            "lat": 45.947367,
+            "lon": 9.3717985
+        },
+        "group": 152,
+        "estimatedCoord": {
+            "lat": 45.94666666666667,
+            "lon": 9.370476190476191
+        },
+        "distance": 128.55700683668937
+    },
+    {
+        "id": 457506187,
+        "name": "Zucco Pertusio",
+        "ele": "1671",
+        "realCoord": {
+            "lat": 45.9210573,
+            "lon": 9.3638308
+        },
+        "group": 148,
+        "estimatedCoord": {
+            "lat": 45.92070833333334,
+            "lon": 9.364124999999998
+        },
+        "distance": 44.9984364424178
+    },
+    {
+        "id": 457506201,
+        "name": "Monte Campione",
+        "ele": "2149",
+        "realCoord": {
+            "lat": 45.9225842,
+            "lon": 9.3920552
+        },
+        "group": 168,
+        "estimatedCoord": {
+            "lat": 45.921794871794866,
+            "lon": 9.391185897435896
+        },
+        "distance": 110.60080868003436
+    },
+    {
+        "id": 457506203,
+        "name": "Grigna Meridionale",
+        "ele": "2181",
+        "realCoord": {
+            "lat": 45.9219664,
+            "lon": 9.3907645
+        },
+        "group": 168,
+        "estimatedCoord": {
+            "lat": 45.921794871794866,
+            "lon": 9.391185897435896
+        },
+        "distance": 37.77774354619512
+    },
+    {
+        "id": 457647593,
+        "name": "Corno del Nibbio Meridionale",
+        "ele": "1372",
+        "realCoord": {
+            "lat": 45.9032444,
+            "lon": 9.4031344
+        },
+        "group": 172,
+        "estimatedCoord": {
+            "lat": 45.903461538461535,
+            "lon": 9.403141025641025
+        },
+        "distance": 24.157718870314472
+    },
+    {
+        "id": 457647618,
+        "name": "Vetta San Vittore",
+        "ele": "1245",
+        "realCoord": {
+            "lat": 45.8801134,
+            "lon": 9.3889138
+        },
+        "group": 165,
+        "estimatedCoord": {
+            "lat": 45.87944444444444,
+            "lon": 9.38861111111111
+        },
+        "distance": 78.01210439079566
+    },
+    {
+        "id": 457647700,
+        "name": "Cima di Calolden",
+        "ele": "1455.0",
+        "realCoord": {
+            "lat": 45.8892224,
+            "lon": 9.3886556
+        },
+        "group": 164,
+        "estimatedCoord": {
+            "lat": 45.88986111111112,
+            "lon": 9.389166666666666
+        },
+        "distance": 81.31897629111758
+    },
+    {
+        "id": 457647708,
+        "name": "Monte Prasanto",
+        "ele": "1245",
+        "realCoord": {
+            "lat": 45.8489433,
+            "lon": 9.318477
+        },
+        "group": 129,
+        "estimatedCoord": {
+            "lat": 45.848541666666655,
+            "lon": 9.317874999999997
+        },
+        "distance": 64.58457585852457
+    },
+    {
+        "id": 457647794,
+        "name": "Corno di Canzo Occidentale",
+        "ele": "1373",
+        "realCoord": {
+            "lat": 45.8625381,
+            "lon": 9.3231977
+        },
+        "group": 133,
+        "estimatedCoord": {
+            "lat": 45.8625,
+            "lon": 9.324464285714287
+        },
+        "distance": 98.19931668530805
+    },
+    {
+        "id": 457647840,
+        "name": "Monte Barro",
+        "ele": "922",
+        "realCoord": {
+            "lat": 45.8307881,
+            "lon": 9.3802137
+        },
+        "group": 157,
+        "estimatedCoord": {
+            "lat": 45.83206349206348,
+            "lon": 9.379761904761907
+        },
+        "distance": 146.11903834439977
+    },
+    {
+        "id": 457647852,
+        "name": "Monte Regina",
+        "ele": "820",
+        "realCoord": {
+            "lat": 45.7861358,
+            "lon": 9.3873279
+        },
+        "group": 162,
+        "estimatedCoord": {
+            "lat": 45.78668859649123,
+            "lon": 9.387521929824562
+        },
+        "distance": 63.302488137444534
+    },
+    {
+        "id": 457648459,
+        "name": "Monte Moregallo",
+        "ele": "1276",
+        "realCoord": {
+            "lat": 45.866588,
+            "lon": 9.339581
+        },
+        "group": 140,
+        "estimatedCoord": {
+            "lat": 45.86691176470588,
+            "lon": 9.340220588235294
+        },
+        "distance": 61.24440005059664
+    },
+    {
+        "id": 457648480,
+        "name": "Corno di Canzo Centrale",
+        "ele": "1368",
+        "realCoord": {
+            "lat": 45.8621964,
+            "lon": 9.3280731
+        },
+        "group": 133,
+        "estimatedCoord": {
+            "lat": 45.8625,
+            "lon": 9.324464285714287
+        },
+        "distance": 281.5665839989352
+    },
+    {
+        "id": 457711302,
+        "name": "Zucco di Desio",
+        "ele": "1651",
+        "realCoord": {
+            "lat": 45.9027242,
+            "lon": 9.4483639
+        },
+        "group": 192,
+        "estimatedCoord": {
+            "lat": 45.903194444444445,
+            "lon": 9.448611111111111
+        },
+        "distance": 55.6953378385223
+    },
+    {
+        "id": 457711314,
+        "name": "Monte Chiavello",
+        "ele": "1787",
+        "realCoord": {
+            "lat": 45.9714979,
+            "lon": 9.4976871
+        },
+        "group": 238,
+        "estimatedCoord": {
+            "lat": 45.97116666666667,
+            "lon": 9.497944444444444
+        },
+        "distance": 41.87121298046242
+    },
+    {
+        "id": 457711323,
+        "name": "Monte Melma",
+        "ele": "914",
+        "realCoord": {
+            "lat": 45.880434,
+            "lon": 9.4228189
+        },
+        "group": 179,
+        "estimatedCoord": {
+            "lat": 45.880462962962966,
+            "lon": 9.422685185185188
+        },
+        "distance": 10.84360849092222
+    },
+    {
+        "id": 457711361,
+        "name": "Il Pizzo",
+        "ele": "1400",
+        "realCoord": {
+            "lat": 45.7902669,
+            "lon": 9.5061962
+        },
+        "group": 247,
+        "estimatedCoord": {
+            "lat": 45.79030701754385,
+            "lon": 9.506184210526316
+        },
+        "distance": 4.558128254326003
+    },
+    {
+        "id": 457711364,
+        "name": "Monte Picchetto",
+        "ele": "1310",
+        "realCoord": {
+            "lat": 45.8097319,
+            "lon": 9.4878654
+        },
+        "group": 229,
+        "estimatedCoord": {
+            "lat": 45.809895833333336,
+            "lon": 9.487395833333334
+        },
+        "distance": 40.71749593641212
+    },
+    {
+        "id": 457711401,
+        "name": "Zucco Orscellera",
+        "ele": "1858",
+        "realCoord": {
+            "lat": 45.9545822,
+            "lon": 9.4917646
+        },
+        "group": 231,
+        "estimatedCoord": {
+            "lat": 45.95432795698925,
+            "lon": 9.49258064516129
+        },
+        "distance": 69.15178508526462
+    },
+    {
+        "id": 457711410,
+        "name": "Zucco Angelone",
+        "ele": "1067",
+        "realCoord": {
+            "lat": 45.9602701,
+            "lon": 9.4601859
+        },
+        "group": 197,
+        "estimatedCoord": {
+            "lat": 45.960270270270264,
+            "lon": 9.460945945945944
+        },
+        "distance": 58.76842598792694
+    },
+    {
+        "id": 457711439,
+        "name": "Cima di Ferrera",
+        "ele": "1387",
+        "realCoord": {
+            "lat": 45.9097318,
+            "lon": 9.479173
+        },
+        "group": 223,
+        "estimatedCoord": {
+            "lat": 45.90924731182793,
+            "lon": 9.479784946236554
+        },
+        "distance": 71.74320563552271
+    },
+    {
+        "id": 457711444,
+        "name": "Monte Tesoro",
+        "ele": "1431",
+        "realCoord": {
+            "lat": 45.798448,
+            "lon": 9.4940996
+        },
+        "group": 233,
+        "estimatedCoord": {
+            "lat": 45.79872395833332,
+            "lon": 9.494036458333333
+        },
+        "distance": 31.082892828734654
+    },
+    {
+        "id": 457711449,
+        "name": "Cima di Musciada",
+        "ele": "1456",
+        "realCoord": {
+            "lat": 45.9001318,
+            "lon": 9.469275
+        },
+        "group": 208,
+        "estimatedCoord": {
+            "lat": 45.90003623188405,
+            "lon": 9.469528985507246
+        },
+        "distance": 22.349823255280814
+    },
+    {
+        "id": 457711462,
+        "name": "Monte Spedone",
+        "ele": "1110",
+        "realCoord": {
+            "lat": 45.8124442,
+            "lon": 9.4611419
+        },
+        "group": 200,
+        "estimatedCoord": {
+            "lat": 45.813095238095244,
+            "lon": 9.462142857142855
+        },
+        "distance": 106.1413230869773
+    },
+    {
+        "id": 457711479,
+        "name": "Corna Camozzera",
+        "ele": "1452",
+        "realCoord": {
+            "lat": 45.8308841,
+            "lon": 9.4726295
+        },
+        "group": 215,
+        "estimatedCoord": {
+            "lat": 45.83111111111111,
+            "lon": 9.47285714285714
+        },
+        "distance": 30.803472759294245
+    },
+    {
+        "id": 457711481,
+        "name": "Zucco di Cornisella",
+        "ele": "1480",
+        "realCoord": {
+            "lat": 45.9878312,
+            "lon": 9.471722
+        },
+        "group": 212,
+        "estimatedCoord": {
+            "lat": 45.9875,
+            "lon": 9.472083333333334
+        },
+        "distance": 46.22722422149681
+    },
+    {
+        "id": 457711482,
+        "name": "Monte Gavazzo",
+        "ele": "916",
+        "realCoord": {
+            "lat": 45.8229969,
+            "lon": 9.4348808
+        },
+        "group": 182,
+        "estimatedCoord": {
+            "lat": 45.82312499999999,
+            "lon": 9.435
+        },
+        "distance": 16.982085304393962
+    },
+    {
+        "id": 457711484,
+        "name": "Monte Foppabona",
+        "ele": "2084",
+        "realCoord": {
+            "lat": 45.9945258,
+            "lon": 9.4944042
+        },
+        "group": 236,
+        "estimatedCoord": {
+            "lat": 45.99408045977011,
+            "lon": 9.495287356321837
+        },
+        "distance": 84.3278968937882
+    },
+    {
+        "id": 457711485,
+        "name": "Corneasso",
+        "ele": "1751",
+        "realCoord": {
+            "lat": 45.9782843,
+            "lon": 9.4966136
+        },
+        "group": 237,
+        "estimatedCoord": {
+            "lat": 45.97705128205127,
+            "lon": 9.496217948717947
+        },
+        "distance": 140.51690084545248
+    },
+    {
+        "id": 457711495,
+        "name": "Cima del Corvo",
+        "ele": "2062",
+        "realCoord": {
+            "lat": 45.991929,
+            "lon": 9.496531
+        },
+        "group": 236,
+        "estimatedCoord": {
+            "lat": 45.99408045977011,
+            "lon": 9.495287356321837
+        },
+        "distance": 257.88305233996607
+    },
+    {
+        "id": 457711504,
+        "name": "Cima del Fo",
+        "ele": "1302",
+        "realCoord": {
+            "lat": 45.850179,
+            "lon": 9.4604045
+        },
+        "group": 198,
+        "estimatedCoord": {
+            "lat": 45.84916666666667,
+            "lon": 9.459166666666667
+        },
+        "distance": 147.90704958504725
+    },
+    {
+        "id": 457711517,
+        "name": "Monte Mudarga",
+        "ele": "912",
+        "realCoord": {
+            "lat": 45.8182379,
+            "lon": 9.436657
+        },
+        "group": 183,
+        "estimatedCoord": {
+            "lat": 45.818076923076916,
+            "lon": 9.43660256410256
+        },
+        "distance": 18.395980239154653
+    },
+    {
+        "id": 457711561,
+        "name": "Monte Magnodeno",
+        "ele": "1231",
+        "realCoord": {
+            "lat": 45.8392408,
+            "lon": 9.4400797
+        },
+        "group": 185,
+        "estimatedCoord": {
+            "lat": 45.83944444444444,
+            "lon": 9.440555555555555
+        },
+        "distance": 43.27592825068072
+    },
+    {
+        "id": 457711571,
+        "name": "Il Pizzo",
+        "ele": "1285",
+        "realCoord": {
+            "lat": 45.8801369,
+            "lon": 9.4795734
+        },
+        "group": 224,
+        "estimatedCoord": {
+            "lat": 45.879999999999995,
+            "lon": 9.48
+        },
+        "distance": 36.374108564071754
+    },
+    {
+        "id": 457711578,
+        "name": "Zucco della Croce",
+        "ele": "1188",
+        "realCoord": {
+            "lat": 45.9191081,
+            "lon": 9.4944126
+        },
+        "group": 234,
+        "estimatedCoord": {
+            "lat": 45.919563492063496,
+            "lon": 9.494444444444444
+        },
+        "distance": 50.71308282327457
+    },
+    {
+        "id": 457711582,
+        "name": "Zucco della Mersa",
+        "ele": "1460",
+        "realCoord": {
+            "lat": 45.9079184,
+            "lon": 9.5025209
+        },
+        "group": 246,
+        "estimatedCoord": {
+            "lat": 45.90786231884058,
+            "lon": 9.503188405797104
+        },
+        "distance": 52.03702155230222
+    },
+    {
+        "id": 457711596,
+        "name": "Costa Riale",
+        "ele": "1078",
+        "realCoord": {
+            "lat": 45.9307131,
+            "lon": 9.4370113
+        },
+        "group": 184,
+        "estimatedCoord": {
+            "lat": 45.93196969696969,
+            "lon": 9.43772727272727
+        },
+        "distance": 150.3460912645373
+    },
+    {
+        "id": 461690541,
+        "name": "Monte dei Frati",
+        "ele": "580",
+        "realCoord": {
+            "lat": 45.7251853,
+            "lon": 9.4681773
+        },
+        "group": 207,
+        "estimatedCoord": {
+            "lat": 45.725,
+            "lon": 9.467916666666666
+        },
+        "distance": 28.88580754000186
+    },
+    {
+        "id": 461690547,
+        "name": "Monte Santa Margherita",
+        "ele": "629",
+        "realCoord": {
+            "lat": 45.7696691,
+            "lon": 9.4675513
+        },
+        "group": 205,
+        "estimatedCoord": {
+            "lat": 45.77049242424243,
+            "lon": 9.466742424242424
+        },
+        "distance": 111.01885531151855
+    },
+    {
+        "id": 461690552,
+        "name": "Monte Robbio",
+        "ele": "370",
+        "realCoord": {
+            "lat": 45.6918667,
+            "lon": 9.4478938
+        },
+        "group": 188,
+        "estimatedCoord": {
+            "lat": 45.69204545454544,
+            "lon": 9.447310606060604
+        },
+        "distance": 49.48210514266572
+    },
+    {
+        "id": 461690561,
+        "name": "Monte Crosaccia",
+        "ele": "730",
+        "realCoord": {
+            "lat": 45.7502129,
+            "lon": 9.4082525
+        },
+        "group": 173,
+        "estimatedCoord": {
+            "lat": 45.75019230769231,
+            "lon": 9.407884615384617
+        },
+        "distance": 28.64502473055097
+    },
+    {
+        "id": 461690570,
+        "name": "Pizzo Pec",
+        "ele": "1005",
+        "realCoord": {
+            "lat": 45.7726473,
+            "lon": 9.4998755
+        },
+        "group": 244,
+        "estimatedCoord": {
+            "lat": 45.7725462962963,
+            "lon": 9.499675925925926
+        },
+        "distance": 19.130121282162616
+    },
+    {
+        "id": 469428105,
+        "name": "Corno Branchino",
+        "ele": "2029",
+        "realCoord": {
+            "lat": 45.9551507,
+            "lon": 9.802419
+        },
+        "group": 444,
+        "estimatedCoord": {
+            "lat": 45.955755208333336,
+            "lon": 9.803515624999998
+        },
+        "distance": 108.22343528213094
+    },
+    {
+        "id": 491536050,
+        "name": "Monte Venturosa",
+        "ele": "1999",
+        "realCoord": {
+            "lat": 45.9296135,
+            "lon": 9.6160546
+        },
+        "group": 303,
+        "estimatedCoord": {
+            "lat": 45.929861111111116,
+            "lon": 9.615694444444445
+        },
+        "distance": 39.17798473112002
+    },
+    {
+        "id": 491536051,
+        "name": "Cima di Piazzo",
+        "ele": "2057",
+        "realCoord": {
+            "lat": 45.9511281,
+            "lon": 9.5382522
+        },
+        "group": 265,
+        "estimatedCoord": {
+            "lat": 45.950902777777785,
+            "lon": 9.53800925925926
+        },
+        "distance": 31.322753050635942
+    },
+    {
+        "id": 491536052,
+        "name": "Monte Castello",
+        "ele": "1218",
+        "realCoord": {
+            "lat": 45.846548,
+            "lon": 9.5576476
+        },
+        "group": 277,
+        "estimatedCoord": {
+            "lat": 45.84620370370371,
+            "lon": 9.55787037037037
+        },
+        "distance": 42.00605782156576
+    },
+    {
+        "id": 491536053,
+        "name": "Zucco di Maesimo",
+        "ele": "1665",
+        "realCoord": {
+            "lat": 45.9161502,
+            "lon": 9.5170311
+        },
+        "group": 253,
+        "estimatedCoord": {
+            "lat": 45.91568627450979,
+            "lon": 9.515024509803919
+        },
+        "distance": 163.627919496553
+    },
+    {
+        "id": 491536055,
+        "name": "Zuc De Valmana",
+        "ele": "1546",
+        "realCoord": {
+            "lat": 45.8702623,
+            "lon": 9.5237961
+        },
+        "group": 258,
+        "estimatedCoord": {
+            "lat": 45.870555555555555,
+            "lon": 9.523819444444447
+        },
+        "distance": 32.66883350366213
+    },
+    {
+        "id": 491536056,
+        "name": "Colle Moscarino",
+        "ele": "894",
+        "realCoord": {
+            "lat": 45.8000136,
+            "lon": 9.5876536
+        },
+        "group": 290,
+        "estimatedCoord": {
+            "lat": 45.80097619047619,
+            "lon": 9.587547619047617
+        },
+        "distance": 107.38372019455088
+    },
+    {
+        "id": 491536057,
+        "name": "Forcella di Berbenno",
+        "ele": "850",
+        "realCoord": {
+            "lat": 45.8174829,
+            "lon": 9.5807387
+        },
+        "group": 287,
+        "estimatedCoord": {
+            "lat": 45.817277777777775,
+            "lon": 9.58
+        },
+        "distance": 61.64284714641506
+    },
+    {
+        "id": 491536117,
+        "name": "Pizzo Baciamorti",
+        "ele": "2006",
+        "realCoord": {
+            "lat": 45.9465788,
+            "lon": 9.5801184
+        },
+        "group": 288,
+        "estimatedCoord": {
+            "lat": 45.94607843137255,
+            "lon": 9.579019607843136
+        },
+        "distance": 101.5853809926286
+    },
+    {
+        "id": 491536136,
+        "name": "Monte Sodadura",
+        "ele": "2010",
+        "realCoord": {
+            "lat": 45.9400645,
+            "lon": 9.5471309
+        },
+        "group": 271,
+        "estimatedCoord": {
+            "lat": 45.94006172839505,
+            "lon": 9.547345679012343
+        },
+        "distance": 16.616101060463354
+    },
+    {
+        "id": 491536139,
+        "name": "Corna Marcia",
+        "ele": "1033",
+        "realCoord": {
+            "lat": 45.7948832,
+            "lon": 9.6023449
+        },
+        "group": 297,
+        "estimatedCoord": {
+            "lat": 45.79555555555556,
+            "lon": 9.60337962962963
+        },
+        "distance": 109.69182692144709
+    },
+    {
+        "id": 491536140,
+        "name": "Monte Ubiale",
+        "ele": "972",
+        "realCoord": {
+            "lat": 45.7959283,
+            "lon": 9.6139848
+        },
+        "group": 301,
+        "estimatedCoord": {
+            "lat": 45.79592592592593,
+            "lon": 9.613703703703703
+        },
+        "distance": 21.80096185665374
+    },
+    {
+        "id": 491536141,
+        "name": "Zucco di Pralongone",
+        "ele": "1500",
+        "realCoord": {
+            "lat": 45.8586521,
+            "lon": 9.5477342
+        },
+        "group": 273,
+        "estimatedCoord": {
+            "lat": 45.858333333333334,
+            "lon": 9.548166666666667
+        },
+        "distance": 48.779574979310034
+    },
+    {
+        "id": 491536151,
+        "name": "I Canti",
+        "ele": "1563",
+        "realCoord": {
+            "lat": 45.8660059,
+            "lon": 9.5381756
+        },
+        "group": 266,
+        "estimatedCoord": {
+            "lat": 45.86617424242425,
+            "lon": 9.537575757575759
+        },
+        "distance": 50.09129313481686
+    },
+    {
+        "id": 491536193,
+        "name": "Pizzo del Rocco",
+        "ele": "1424",
+        "realCoord": {
+            "lat": 45.9866696,
+            "lon": 9.5658361
+        },
+        "group": 283,
+        "estimatedCoord": {
+            "lat": 45.98499999999999,
+            "lon": 9.565049019607843
+        },
+        "distance": 195.41834377685257
+    },
+    {
+        "id": 491536233,
+        "name": "Monte Disner",
+        "ele": "1342",
+        "realCoord": {
+            "lat": 45.9797818,
+            "lon": 9.609176
+        },
+        "group": 298,
+        "estimatedCoord": {
+            "lat": 45.97972222222221,
+            "lon": 9.608650793650789
+        },
+        "distance": 41.13315032816792
+    },
+    {
+        "id": 491536236,
+        "name": "Pizzo Grande",
+        "ele": "1574",
+        "realCoord": {
+            "lat": 45.869347,
+            "lon": 9.6159773
+        },
+        "group": 304,
+        "estimatedCoord": {
+            "lat": 45.86816666666667,
+            "lon": 9.615
+        },
+        "distance": 151.54486359347806
+    },
+    {
+        "id": 491536257,
+        "name": "Colle San Pietro",
+        "ele": "933",
+        "realCoord": {
+            "lat": 45.8214947,
+            "lon": 9.5638635
+        },
+        "group": 280,
+        "estimatedCoord": {
+            "lat": 45.82149999999999,
+            "lon": 9.564416666666666
+        },
+        "distance": 42.883116903127494
+    },
+    {
+        "id": 491536263,
+        "name": "Pizzo di Cusio",
+        "ele": "1465",
+        "realCoord": {
+            "lat": 45.9871642,
+            "lon": 9.5925095
+        },
+        "group": 293,
+        "estimatedCoord": {
+            "lat": 45.98732323232323,
+            "lon": 9.59229797979798
+        },
+        "distance": 24.08605368005411
+    },
+    {
+        "id": 491536273,
+        "name": "Monte Foldone",
+        "ele": "1497",
+        "realCoord": {
+            "lat": 45.8491788,
+            "lon": 9.6166178
+        },
+        "group": 307,
+        "estimatedCoord": {
+            "lat": 45.8493817204301,
+            "lon": 9.61752688172043
+        },
+        "distance": 73.96100896300369
+    },
+    {
+        "id": 491536288,
+        "name": "Monte Sornadello",
+        "ele": "1580",
+        "realCoord": {
+            "lat": 45.8584095,
+            "lon": 9.610611
+        },
+        "group": 300,
+        "estimatedCoord": {
+            "lat": 45.8586111111111,
+            "lon": 9.61111111111111
+        },
+        "distance": 44.763000513729274
+    },
+    {
+        "id": 491536291,
+        "name": "Il Pizzo",
+        "ele": "845",
+        "realCoord": {
+            "lat": 45.8444412,
+            "lon": 9.5908732
+        },
+        "group": 291,
+        "estimatedCoord": {
+            "lat": 45.84465277777778,
+            "lon": 9.590868055555555
+        },
+        "distance": 23.537136478611515
+    },
+    {
+        "id": 491575196,
+        "name": "Monte Vaccaregio",
+        "ele": "1474",
+        "realCoord": {
+            "lat": 45.8958638,
+            "lon": 9.7136346
+        },
+        "group": 367,
+        "estimatedCoord": {
+            "lat": 45.8960576923077,
+            "lon": 9.712628205128205
+        },
+        "distance": 80.83692882748606
+    },
+    {
+        "id": 491575220,
+        "name": "Pizzo Rabbioso",
+        "ele": "1151",
+        "realCoord": {
+            "lat": 45.8381365,
+            "lon": 9.7039837
+        },
+        "group": 363,
+        "estimatedCoord": {
+            "lat": 45.83765873015872,
+            "lon": 9.70376984126984
+        },
+        "distance": 55.66639828869132
+    },
+    {
+        "id": 491575287,
+        "name": "Monte Ortighera",
+        "ele": "1632",
+        "realCoord": {
+            "lat": 45.9264993,
+            "lon": 9.6981643
+        },
+        "group": 360,
+        "estimatedCoord": {
+            "lat": 45.926752136752135,
+            "lon": 9.69861111111111
+        },
+        "distance": 44.56394585294188
+    },
+    {
+        "id": 491575329,
+        "name": "Monte Gioco",
+        "ele": "1366",
+        "realCoord": {
+            "lat": 45.8573191,
+            "lon": 9.703125
+        },
+        "group": 361,
+        "estimatedCoord": {
+            "lat": 45.85721544715448,
+            "lon": 9.702947154471545
+        },
+        "distance": 17.964654957097743
+    },
+    {
+        "id": 491575348,
+        "name": "Pizzo Cerro",
+        "ele": "1285",
+        "realCoord": {
+            "lat": 45.829239,
+            "lon": 9.6251063
+        },
+        "group": 314,
+        "estimatedCoord": {
+            "lat": 45.82958333333334,
+            "lon": 9.625625
+        },
+        "distance": 55.525424962423905
+    },
+    {
+        "id": 491575363,
+        "name": "Castello Regina",
+        "ele": "1424",
+        "realCoord": {
+            "lat": 45.8416227,
+            "lon": 9.6188101
+        },
+        "group": 311,
+        "estimatedCoord": {
+            "lat": 45.841376811594195,
+            "lon": 9.619021739130432
+        },
+        "distance": 31.889986755603076
+    },
+    {
+        "id": 491575372,
+        "name": "Monte Zucco",
+        "ele": "1232",
+        "realCoord": {
+            "lat": 45.8212598,
+            "lon": 9.6560991
+        },
+        "group": 336,
+        "estimatedCoord": {
+            "lat": 45.820641025641024,
+            "lon": 9.655320512820511
+        },
+        "distance": 91.53993047584882
+    },
+    {
+        "id": 491575381,
+        "name": "Pizzo del Sole",
+        "ele": "1032",
+        "realCoord": {
+            "lat": 45.8378497,
+            "lon": 9.6438845
+        },
+        "group": 325,
+        "estimatedCoord": {
+            "lat": 45.83777777777777,
+            "lon": 9.644047619047619
+        },
+        "distance": 14.959357120457746
+    },
+    {
+        "id": 491575386,
+        "name": "Corno dell'Arco",
+        "ele": "1166",
+        "realCoord": {
+            "lat": 45.819822,
+            "lon": 9.6438388
+        },
+        "group": 329,
+        "estimatedCoord": {
+            "lat": 45.81757575757575,
+            "lon": 9.645479797979796
+        },
+        "distance": 280.369108809671
+    },
+    {
+        "id": 491575390,
+        "name": "Monte Faino",
+        "ele": "1564",
+        "realCoord": {
+            "lat": 45.9989454,
+            "lon": 9.6511767
+        },
+        "group": 333,
+        "estimatedCoord": {
+            "lat": 45.99886363636363,
+            "lon": 9.65121212121212
+        },
+        "distance": 9.497460641974968
+    },
+    {
+        "id": 491575403,
+        "name": "Pizzoli",
+        "ele": "1014",
+        "realCoord": {
+            "lat": 45.8338524,
+            "lon": 9.639184
+        },
+        "group": 324,
+        "estimatedCoord": {
+            "lat": 45.834444444444436,
+            "lon": 9.639444444444443
+        },
+        "distance": 68.87676824075581
+    },
+    {
+        "id": 491575407,
+        "name": "Corna Camozzera",
+        "ele": "1047",
+        "realCoord": {
+            "lat": 45.8305845,
+            "lon": 9.6964135
+        },
+        "group": 357,
+        "estimatedCoord": {
+            "lat": 45.828611111111115,
+            "lon": 9.695555555555558
+        },
+        "distance": 229.35046341472184
+    },
+    {
+        "id": 491575408,
+        "name": "Monte Molinasco",
+        "ele": "1176",
+        "realCoord": {
+            "lat": 45.8544138,
+            "lon": 9.6416963
+        },
+        "group": 323,
+        "estimatedCoord": {
+            "lat": 45.8539393939394,
+            "lon": 9.640909090909092
+        },
+        "distance": 80.64530920046418
+    },
+    {
+        "id": 491575430,
+        "name": "Monte Cancervo",
+        "ele": "1835",
+        "realCoord": {
+            "lat": 45.9144587,
+            "lon": 9.617806
+        },
+        "group": 310,
+        "estimatedCoord": {
+            "lat": 45.916249999999984,
+            "lon": 9.617812499999998
+        },
+        "distance": 199.2466351817442
+    },
+    {
+        "id": 491575436,
+        "name": "Corna Grossa",
+        "ele": "1300",
+        "realCoord": {
+            "lat": 45.9428197,
+            "lon": 9.6504373
+        },
+        "group": 334,
+        "estimatedCoord": {
+            "lat": 45.943333333333335,
+            "lon": 9.65125
+        },
+        "distance": 84.94278166225735
+    },
+    {
+        "id": 491575443,
+        "name": "Monte del Sole",
+        "ele": "1523",
+        "realCoord": {
+            "lat": 45.9656373,
+            "lon": 9.6794634
+        },
+        "group": 347,
+        "estimatedCoord": {
+            "lat": 45.965859375,
+            "lon": 9.678802083333332
+        },
+        "distance": 56.7835645455341
+    },
+    {
+        "id": 491575456,
+        "name": "Monte Medile",
+        "ele": "1589",
+        "realCoord": {
+            "lat": 45.924068,
+            "lon": 9.6946855
+        },
+        "group": 356,
+        "estimatedCoord": {
+            "lat": 45.923750000000005,
+            "lon": 9.694166666666666
+        },
+        "distance": 53.50352008457558
+    },
+    {
+        "id": 491575470,
+        "name": "La Bassa",
+        "ele": "1120",
+        "realCoord": {
+            "lat": 45.9833469,
+            "lon": 9.648216
+        },
+        "group": 330,
+        "estimatedCoord": {
+            "lat": 45.98370370370371,
+            "lon": 9.647870370370372
+        },
+        "distance": 47.84028460948887
+    },
+    {
+        "id": 492483873,
+        "name": "Cima del Fop",
+        "ele": "1065",
+        "realCoord": {
+            "lat": 45.7965114,
+            "lon": 9.7248072
+        },
+        "group": 374,
+        "estimatedCoord": {
+            "lat": 45.79705882352942,
+            "lon": 9.72529411764706
+        },
+        "distance": 71.647923452525
+    },
+    {
+        "id": 492483884,
+        "name": "Monte Suchello",
+        "ele": "1541",
+        "realCoord": {
+            "lat": 45.8314875,
+            "lon": 9.7657967
+        },
+        "group": 398,
+        "estimatedCoord": {
+            "lat": 45.830906862745096,
+            "lon": 9.765759803921569
+        },
+        "distance": 64.64745808489435
+    },
+    {
+        "id": 492483915,
+        "name": "Monte del Tonale",
+        "ele": "2425",
+        "realCoord": {
+            "lat": 45.9828893,
+            "lon": 9.7925931
+        },
+        "group": 428,
+        "estimatedCoord": {
+            "lat": 45.981666666666655,
+            "lon": 9.7941
+        },
+        "distance": 179.05184313241227
+    },
+    {
+        "id": 492483921,
+        "name": "Monte Poieto",
+        "ele": "1360",
+        "realCoord": {
+            "lat": 45.7983341,
+            "lon": 9.7820616
+        },
+        "group": 415,
+        "estimatedCoord": {
+            "lat": 45.800000000000004,
+            "lon": 9.78170138888889
+        },
+        "distance": 187.39138194860269
+    },
+    {
+        "id": 492483962,
+        "name": "Cima della Spada",
+        "ele": "1952",
+        "realCoord": {
+            "lat": 45.8720894,
+            "lon": 9.7693379
+        },
+        "group": 403,
+        "estimatedCoord": {
+            "lat": 45.87166666666667,
+            "lon": 9.769166666666667
+        },
+        "distance": 48.85482055319926
+    },
+    {
+        "id": 492483990,
+        "name": "Monte Rena",
+        "ele": "1143",
+        "realCoord": {
+            "lat": 45.7840044,
+            "lon": 9.8010226
+        },
+        "group": 438,
+        "estimatedCoord": {
+            "lat": 45.78398148148147,
+            "lon": 9.800524691358024
+        },
+        "distance": 38.705733647930664
+    },
+    {
+        "id": 492484035,
+        "name": "Corna Piana",
+        "ele": "2302",
+        "realCoord": {
+            "lat": 45.9424857,
+            "lon": 9.8074711
+        },
+        "group": 445,
+        "estimatedCoord": {
+            "lat": 45.94273148148148,
+            "lon": 9.807638888888887
+        },
+        "distance": 30.262285710169813
+    },
+    {
+        "id": 492484118,
+        "name": "Monte Castello",
+        "realCoord": {
+            "lat": 45.8957458,
+            "lon": 9.7248024
+        },
+        "group": 375,
+        "estimatedCoord": {
+            "lat": 45.895625,
+            "lon": 9.724791666666667
+        },
+        "distance": 13.462229732713636
+    },
+    {
+        "id": 492484147,
+        "name": "Pizzo dell'Orto",
+        "ele": "2271",
+        "realCoord": {
+            "lat": 45.9922799,
+            "lon": 9.7851427
+        },
+        "group": 422,
+        "estimatedCoord": {
+            "lat": 45.9929,
+            "lon": 9.784933333333333
+        },
+        "distance": 70.84580558956887
+    },
+    {
+        "id": 492484259,
+        "name": "Cima di Menna",
+        "ele": "2300",
+        "realCoord": {
+            "lat": 45.929472,
+            "lon": 9.7597571
+        },
+        "group": 394,
+        "estimatedCoord": {
+            "lat": 45.92909090909091,
+            "lon": 9.759924242424242
+        },
+        "distance": 44.3171749278605
+    },
+    {
+        "id": 492484352,
+        "name": "Monte Vetro",
+        "ele": "2054",
+        "realCoord": {
+            "lat": 45.939135,
+            "lon": 9.7813019
+        },
+        "group": 414,
+        "estimatedCoord": {
+            "lat": 45.939375,
+            "lon": 9.780972222222221
+        },
+        "distance": 36.917969965182316
+    },
+    {
+        "id": 492484414,
+        "name": "Colle Botto",
+        "ele": "1025",
+        "realCoord": {
+            "lat": 45.7909168,
+            "lon": 9.7608945
+        },
+        "group": 395,
+        "estimatedCoord": {
+            "lat": 45.78933333333334,
+            "lon": 9.759833333333333
+        },
+        "distance": 194.40980214721276
+    },
+    {
+        "id": 492484472,
+        "name": "Corna Bianca",
+        "ele": "1228",
+        "realCoord": {
+            "lat": 45.7849559,
+            "lon": 9.7239239
+        },
+        "group": 373,
+        "estimatedCoord": {
+            "lat": 45.78444444444443,
+            "lon": 9.723784722222222
+        },
+        "distance": 57.90437047447902
+    },
+    {
+        "id": 492508854,
+        "name": "Monte Cloca",
+        "ele": "584",
+        "realCoord": {
+            "lat": 45.8095504,
+            "lon": 9.8413323
+        },
+        "group": 471,
+        "estimatedCoord": {
+            "lat": 45.809122807017545,
+            "lon": 9.841842105263158
+        },
+        "distance": 61.84175568109715
+    },
+    {
+        "id": 492508899,
+        "name": "Cima di Cavlera",
+        "ele": "1320",
+        "realCoord": {
+            "lat": 45.8396702,
+            "lon": 9.8290557
+        },
+        "group": 460,
+        "estimatedCoord": {
+            "lat": 45.83958333333333,
+            "lon": 9.828854166666666
+        },
+        "distance": 18.36422829393203
+    },
+    {
+        "id": 492508944,
+        "name": "Monte Crapele",
+        "ele": "2125",
+        "realCoord": {
+            "lat": 45.9763396,
+            "lon": 9.8572688
+        },
+        "group": 484,
+        "estimatedCoord": {
+            "lat": 45.975833333333334,
+            "lon": 9.857083333333334
+        },
+        "distance": 58.10829955449137
+    },
+    {
+        "id": 492509026,
+        "name": "Monte di Zanetti",
+        "ele": "1712",
+        "realCoord": {
+            "lat": 45.9605966,
+            "lon": 9.8699875
+        },
+        "group": 494,
+        "estimatedCoord": {
+            "lat": 45.96083333333333,
+            "lon": 9.871666666666666
+        },
+        "distance": 132.47906617969866
+    },
+    {
+        "id": 492509041,
+        "name": "Monte Bue",
+        "ele": "707",
+        "realCoord": {
+            "lat": 45.7858216,
+            "lon": 9.8465213
+        },
+        "group": 476,
+        "estimatedCoord": {
+            "lat": 45.78612499999999,
+            "lon": 9.846499999999997
+        },
+        "distance": 33.78754847080042
+    },
+    {
+        "id": 492509056,
+        "name": "Il Colle",
+        "ele": "1009",
+        "realCoord": {
+            "lat": 45.8486651,
+            "lon": 9.8554478
+        },
+        "group": 482,
+        "estimatedCoord": {
+            "lat": 45.84847222222222,
+            "lon": 9.855555555555556
+        },
+        "distance": 23.0209550508183
+    },
+    {
+        "id": 492509070,
+        "name": "Pizzo Formico",
+        "ele": "1636",
+        "realCoord": {
+            "lat": 45.8476185,
+            "lon": 9.9239708
+        },
+        "group": 526,
+        "estimatedCoord": {
+            "lat": 45.84734567901234,
+            "lon": 9.923765432098763
+        },
+        "distance": 34.26448146787242
+    },
+    {
+        "id": 492509108,
+        "name": "Corno Negro",
+        "ele": "1289",
+        "realCoord": {
+            "lat": 45.9431639,
+            "lon": 9.8897502
+        },
+        "group": 506,
+        "estimatedCoord": {
+            "lat": 45.94333333333333,
+            "lon": 9.889375
+        },
+        "distance": 34.602677349370985
+    },
+    {
+        "id": 492509123,
+        "name": "Pizzo Salina",
+        "ele": "2490",
+        "realCoord": {
+            "lat": 45.9861802,
+            "lon": 9.8586185
+        },
+        "group": 486,
+        "estimatedCoord": {
+            "lat": 45.98616666666666,
+            "lon": 9.858166666666666
+        },
+        "distance": 34.95283904304427
+    },
+    {
+        "id": 492509192,
+        "name": "Monte Golla",
+        "ele": "1993",
+        "realCoord": {
+            "lat": 45.9059949,
+            "lon": 9.8364316
+        },
+        "group": 465,
+        "estimatedCoord": {
+            "lat": 45.90557692307692,
+            "lon": 9.836089743589744
+        },
+        "distance": 53.493385375740324
+    },
+    {
+        "id": 492509209,
+        "name": "Cima del Fop",
+        "ele": "2316",
+        "realCoord": {
+            "lat": 45.9333306,
+            "lon": 9.8639476
+        },
+        "group": 488,
+        "estimatedCoord": {
+            "lat": 45.932685185185186,
+            "lon": 9.863796296296297
+        },
+        "distance": 72.73733462964799
+    },
+    {
+        "id": 492509339,
+        "name": "Corno Guazza",
+        "ele": "1270",
+        "realCoord": {
+            "lat": 45.8525397,
+            "lon": 9.8999901
+        },
+        "group": 516,
+        "estimatedCoord": {
+            "lat": 45.85243055555555,
+            "lon": 9.89986111111111
+        },
+        "distance": 15.724003980186685
+    },
+    {
+        "id": 492509412,
+        "name": "Cime di Belloro",
+        "ele": "1383",
+        "realCoord": {
+            "lat": 45.8814881,
+            "lon": 9.8464954
+        },
+        "group": 475,
+        "estimatedCoord": {
+            "lat": 45.881354166666654,
+            "lon": 9.84645833333333
+        },
+        "distance": 15.171347122223718
+    },
+    {
+        "id": 492509444,
+        "name": "Cima Valmora",
+        "ele": "2198",
+        "realCoord": {
+            "lat": 45.930904,
+            "lon": 9.8418058
+        },
+        "group": 470,
+        "estimatedCoord": {
+            "lat": 45.93061111111112,
+            "lon": 9.84088888888889
+        },
+        "distance": 78.05861213726264
+    },
+    {
+        "id": 492509450,
+        "name": "Monte Secco",
+        "realCoord": {
+            "lat": 45.9311259,
+            "lon": 9.8822181
+        },
+        "group": 499,
+        "estimatedCoord": {
+            "lat": 45.93242424242424,
+            "lon": 9.880681818181818
+        },
+        "distance": 187.03151745263904
+    },
+    {
+        "id": 492509457,
+        "name": "Pizzo Frol",
+        "ele": "1055",
+        "realCoord": {
+            "lat": 45.8491747,
+            "lon": 9.8660573
+        },
+        "group": 489,
+        "estimatedCoord": {
+            "lat": 45.848686868686876,
+            "lon": 9.865303030303032
+        },
+        "distance": 79.74585555495912
+    },
+    {
+        "id": 492509464,
+        "name": "Monte Cornello",
+        "ele": "774",
+        "realCoord": {
+            "lat": 45.7830703,
+            "lon": 9.8767239
+        },
+        "group": 495,
+        "estimatedCoord": {
+            "lat": 45.782916666666665,
+            "lon": 9.876666666666667
+        },
+        "distance": 17.65588160251117
+    },
+    {
+        "id": 492596467,
+        "name": "Monte Palandone",
+        "ele": "1363",
+        "realCoord": {
+            "lat": 45.8158051,
+            "lon": 9.9758313
+        },
+        "group": 569,
+        "estimatedCoord": {
+            "lat": 45.81583333333332,
+            "lon": 9.976041666666665
+        },
+        "distance": 16.607977695434343
+    },
+    {
+        "id": 492596507,
+        "name": "Cima di Timogno",
+        "ele": "2096",
+        "realCoord": {
+            "lat": 45.9601182,
+            "lon": 9.9890909
+        },
+        "group": 587,
+        "estimatedCoord": {
+            "lat": 45.96027777777777,
+            "lon": 9.989166666666666
+        },
+        "distance": 18.691634774825456
+    },
+    {
+        "id": 492596533,
+        "name": "Monte Corru",
+        "ele": "1818",
+        "realCoord": {
+            "lat": 45.9555064,
+            "lon": 9.9615763
+        },
+        "group": 554,
+        "estimatedCoord": {
+            "lat": 45.955909090909095,
+            "lon": 9.9625
+        },
+        "distance": 84.3105630672527
+    },
+    {
+        "id": 492596563,
+        "name": "Cima Ba",
+        "ele": "1527",
+        "realCoord": {
+            "lat": 45.930857,
+            "lon": 9.9586023
+        },
+        "group": 551,
+        "estimatedCoord": {
+            "lat": 45.931555555555555,
+            "lon": 9.959333333333335
+        },
+        "distance": 96.10287875784694
+    },
+    {
+        "id": 492596622,
+        "name": "Monte Nè",
+        "ele": "844",
+        "realCoord": {
+            "lat": 45.8911319,
+            "lon": 9.930096
+        },
+        "group": 529,
+        "estimatedCoord": {
+            "lat": 45.891033333333326,
+            "lon": 9.9294
+        },
+        "distance": 54.98746758651125
+    },
+    {
+        "id": 492596630,
+        "name": "Monte Fogarolo",
+        "ele": "1526",
+        "realCoord": {
+            "lat": 45.8413659,
+            "lon": 9.9569793
+        },
+        "group": 550,
+        "estimatedCoord": {
+            "lat": 45.841388888888886,
+            "lon": 9.957083333333333
+        },
+        "distance": 8.457159343552636
+    },
+    {
+        "id": 492596639,
+        "name": "Monte Redondo",
+        "ele": "1796",
+        "realCoord": {
+            "lat": 45.955688,
+            "lon": 9.9484425
+        },
+        "group": 542,
+        "estimatedCoord": {
+            "lat": 45.95583333333333,
+            "lon": 9.948782051282052
+        },
+        "distance": 30.834228758384004
+    },
+    {
+        "id": 492596650,
+        "name": "Monte Pizzetto",
+        "ele": "1208",
+        "realCoord": {
+            "lat": 45.8007509,
+            "lon": 9.9286653
+        },
+        "group": 530,
+        "estimatedCoord": {
+            "lat": 45.80104166666667,
+            "lon": 9.92875
+        },
+        "distance": 33.00210541052643
+    },
+    {
+        "id": 492596684,
+        "name": "Costa Magrera",
+        "ele": "1625",
+        "realCoord": {
+            "lat": 45.9804668,
+            "lon": 9.9665967
+        },
+        "group": 561,
+        "estimatedCoord": {
+            "lat": 45.98043650793651,
+            "lon": 9.966309523809523
+        },
+        "distance": 22.4512750350143
+    },
+    {
+        "id": 492596699,
+        "name": "Cima Benfit",
+        "ele": "2170",
+        "realCoord": {
+            "lat": 45.965587,
+            "lon": 9.992843
+        },
+        "group": 590,
+        "estimatedCoord": {
+            "lat": 45.965428571428575,
+            "lon": 9.99297619047619
+        },
+        "distance": 20.4101692898832
+    },
+    {
+        "id": 492596737,
+        "name": "Cima Blum",
+        "ele": "1293",
+        "realCoord": {
+            "lat": 45.9080084,
+            "lon": 9.9683487
+        },
+        "group": 563,
+        "estimatedCoord": {
+            "lat": 45.908333333333324,
+            "lon": 9.968402777777778
+        },
+        "distance": 36.38380864653896
+    },
+    {
+        "id": 492596772,
+        "name": "Monte Avert",
+        "ele": "2084",
+        "realCoord": {
+            "lat": 45.9716397,
+            "lon": 9.9894817
+        },
+        "group": 583,
+        "estimatedCoord": {
+            "lat": 45.9722619047619,
+            "lon": 9.988988095238094
+        },
+        "distance": 79.03028350362311
+    },
+    {
+        "id": 492596786,
+        "name": "La Costa",
+        "ele": "1265",
+        "realCoord": {
+            "lat": 45.8114187,
+            "lon": 9.9886932
+        },
+        "group": 580,
+        "estimatedCoord": {
+            "lat": 45.8115,
+            "lon": 9.988333333333333
+        },
+        "distance": 29.329226544440626
+    },
+    {
+        "id": 494601149,
+        "name": "Pizzo di Lonno",
+        "ele": "782",
+        "realCoord": {
+            "lat": 45.7546442,
+            "lon": 9.7279079
+        },
+        "group": 376,
+        "estimatedCoord": {
+            "lat": 45.75474358974358,
+            "lon": 9.728012820512818
+        },
+        "distance": 13.730238082322952
+    },
+    {
+        "id": 495722484,
+        "name": "Monte Linzone",
+        "ele": "1392",
+        "realCoord": {
+            "lat": 45.7764547,
+            "lon": 9.5317185
+        },
+        "group": 261,
+        "estimatedCoord": {
+            "lat": 45.7765,
+            "lon": 9.531749999999999
+        },
+        "distance": 5.6000322752272265
+    },
+    {
+        "id": 513906928,
+        "name": "Monti di Argon",
+        "ele": "482",
+        "realCoord": {
+            "lat": 45.6969481,
+            "lon": 9.8000813
+        },
+        "group": 437,
+        "estimatedCoord": {
+            "lat": 45.69670289855072,
+            "lon": 9.799347826086954
+        },
+        "distance": 63.17359843346559
+    },
+    {
+        "id": 513906932,
+        "name": "Monte San Giorgio",
+        "ele": "433",
+        "realCoord": {
+            "lat": 45.6893925,
+            "lon": 9.7834071
+        },
+        "group": 417,
+        "estimatedCoord": {
+            "lat": 45.68960317460317,
+            "lon": 9.78281746031746
+        },
+        "distance": 51.45960774715353
+    },
+    {
+        "id": 513906933,
+        "name": "Colle Tomenone",
+        "ele": "370",
+        "realCoord": {
+            "lat": 45.6728932,
+            "lon": 9.7819235
+        },
+        "group": 413,
+        "estimatedCoord": {
+            "lat": 45.67297101449275,
+            "lon": 9.781775362318838
+        },
+        "distance": 14.404055772778063
+    },
+    {
+        "id": 513906936,
+        "name": "La Vena",
+        "ele": "437",
+        "realCoord": {
+            "lat": 45.7403471,
+            "lon": 9.5454441
+        },
+        "group": 272,
+        "estimatedCoord": {
+            "lat": 45.74041666666667,
+            "lon": 9.545833333333333
+        },
+        "distance": 31.190658242746903
+    },
+    {
+        "id": 513906937,
+        "name": "Picco Alto",
+        "ele": "524",
+        "realCoord": {
+            "lat": 45.7429404,
+            "lon": 9.5318577
+        },
+        "group": 262,
+        "estimatedCoord": {
+            "lat": 45.74333333333333,
+            "lon": 9.53125
+        },
+        "distance": 64.30747844070935
+    },
+    {
+        "id": 513906943,
+        "name": "Monte Brocchione",
+        "ele": "508",
+        "realCoord": {
+            "lat": 45.7488429,
+            "lon": 9.535144
+        },
+        "group": 263,
+        "estimatedCoord": {
+            "lat": 45.74875,
+            "lon": 9.535
+        },
+        "distance": 15.221607741273809
+    },
+    {
+        "id": 513906949,
+        "name": "Monte Tassera",
+        "ele": "632",
+        "realCoord": {
+            "lat": 45.7749191,
+            "lon": 9.6193602
+        },
+        "group": 312,
+        "estimatedCoord": {
+            "lat": 45.77499999999999,
+            "lon": 9.619166666666667
+        },
+        "distance": 17.504425170324453
+    },
+    {
+        "id": 513906952,
+        "name": "Corna dell'Uomo",
+        "ele": "972",
+        "realCoord": {
+            "lat": 45.7718698,
+            "lon": 9.6500024
+        },
+        "group": 332,
+        "estimatedCoord": {
+            "lat": 45.77190476190477,
+            "lon": 9.650952380952381
+        },
+        "distance": 73.80648365836916
+    },
+    {
+        "id": 513906955,
+        "name": "Monte Ubione",
+        "ele": "895",
+        "realCoord": {
+            "lat": 45.7755184,
+            "lon": 9.5933935
+        },
+        "group": 294,
+        "estimatedCoord": {
+            "lat": 45.77545045045045,
+            "lon": 9.593648648648644
+        },
+        "distance": 21.188200512722844
+    },
+    {
+        "id": 513906958,
+        "name": "Monte Castra",
+        "ele": "518",
+        "realCoord": {
+            "lat": 45.7611918,
+            "lon": 9.5832086
+        },
+        "group": 289,
+        "estimatedCoord": {
+            "lat": 45.76083333333332,
+            "lon": 9.584444444444445
+        },
+        "distance": 103.85974902370981
+    },
+    {
+        "id": 513906963,
+        "name": "Monte Bastia",
+        "ele": "584",
+        "realCoord": {
+            "lat": 45.759222,
+            "lon": 9.6160398
+        },
+        "group": 305,
+        "estimatedCoord": {
+            "lat": 45.75946969696969,
+            "lon": 9.616414141414143
+        },
+        "distance": 40.03695849636448
+    },
+    {
+        "id": 513906965,
+        "name": "Monte Lumbric",
+        "ele": "829",
+        "realCoord": {
+            "lat": 45.7607618,
+            "lon": 9.658811
+        },
+        "group": 338,
+        "estimatedCoord": {
+            "lat": 45.76059523809522,
+            "lon": 9.658928571428568
+        },
+        "distance": 20.651306784378303
+    },
+    {
+        "id": 513906970,
+        "name": "Monte Zuccone",
+        "ele": "670",
+        "realCoord": {
+            "lat": 45.7454746,
+            "lon": 9.7047785
+        },
+        "group": 362,
+        "estimatedCoord": {
+            "lat": 45.74488888888889,
+            "lon": 9.70388888888889
+        },
+        "distance": 94.93514669432616
+    },
+    {
+        "id": 513906971,
+        "name": "Monte del Roccolo",
+        "ele": "463",
+        "realCoord": {
+            "lat": 45.7169306,
+            "lon": 9.7460499
+        },
+        "group": 388,
+        "estimatedCoord": {
+            "lat": 45.717375,
+            "lon": 9.745999999999999
+        },
+        "distance": 49.582212699021184
+    },
+    {
+        "id": 513906975,
+        "name": "Monte Podona",
+        "ele": "1220",
+        "realCoord": {
+            "lat": 45.7757137,
+            "lon": 9.7335781
+        },
+        "group": 383,
+        "estimatedCoord": {
+            "lat": 45.775784313725495,
+            "lon": 9.733676470588234
+        },
+        "distance": 10.951300479333108
+    },
+    {
+        "id": 513906978,
+        "name": "Monte Solino",
+        "ele": "838",
+        "realCoord": {
+            "lat": 45.7524676,
+            "lon": 9.6839289
+        },
+        "group": 351,
+        "estimatedCoord": {
+            "lat": 45.7525,
+            "lon": 9.684104938271604
+        },
+        "distance": 14.129931895732026
+    },
+    {
+        "id": 513906989,
+        "name": "Monte Valtrusa",
+        "ele": "894",
+        "realCoord": {
+            "lat": 45.7569994,
+            "lon": 9.7450335
+        },
+        "group": 387,
+        "estimatedCoord": {
+            "lat": 45.75749999999999,
+            "lon": 9.74472222222222
+        },
+        "distance": 60.69591338535065
+    },
+    {
+        "id": 513907013,
+        "name": "I Corni",
+        "ele": "928",
+        "realCoord": {
+            "lat": 45.7626613,
+            "lon": 9.7345304
+        },
+        "group": 386,
+        "estimatedCoord": {
+            "lat": 45.76229166666668,
+            "lon": 9.734791666666666
+        },
+        "distance": 45.84108613577123
+    },
+    {
+        "id": 513907032,
+        "name": "Monte del Cavallo",
+        "ele": "980",
+        "realCoord": {
+            "lat": 45.7652513,
+            "lon": 9.6971214
+        },
+        "group": 358,
+        "estimatedCoord": {
+            "lat": 45.764722222222225,
+            "lon": 9.696203703703704
+        },
+        "distance": 92.37861376324702
+    },
+    {
+        "id": 513907054,
+        "name": "Monte Luvrida",
+        "ele": "827",
+        "realCoord": {
+            "lat": 45.7558828,
+            "lon": 9.6734095
+        },
+        "group": 346,
+        "estimatedCoord": {
+            "lat": 45.75583333333333,
+            "lon": 9.674583333333334
+        },
+        "distance": 91.26365861664705
+    },
+    {
+        "id": 513907069,
+        "name": "Il Dosso",
+        "ele": "464",
+        "realCoord": {
+            "lat": 45.7097535,
+            "lon": 9.7958279
+        },
+        "group": 431,
+        "estimatedCoord": {
+            "lat": 45.709871794871795,
+            "lon": 9.795833333333333
+        },
+        "distance": 13.164684697408669
+    },
+    {
+        "id": 513907117,
+        "name": "Monte Misma",
+        "ele": "1161",
+        "realCoord": {
+            "lat": 45.7367759,
+            "lon": 9.8185167
+        },
+        "group": 452,
+        "estimatedCoord": {
+            "lat": 45.7366935483871,
+            "lon": 9.818360215053763
+        },
+        "distance": 15.2148102320212
+    },
+    {
+        "id": 513907133,
+        "name": "Cima Corna Clima",
+        "ele": "865",
+        "realCoord": {
+            "lat": 45.7281762,
+            "lon": 9.8426005
+        },
+        "group": 472,
+        "estimatedCoord": {
+            "lat": 45.72833333333334,
+            "lon": 9.843333333333334
+        },
+        "distance": 59.524891355202044
+    },
+    {
+        "id": 513907153,
+        "name": "Pizzo",
+        "ele": "914",
+        "realCoord": {
+            "lat": 45.7357094,
+            "lon": 9.8371402
+        },
+        "group": 464,
+        "estimatedCoord": {
+            "lat": 45.73355072463768,
+            "lon": 9.83623188405797
+        },
+        "distance": 250.2503409921617
+    },
+    {
+        "id": 513907186,
+        "name": "Monte Purito",
+        "ele": "1136",
+        "realCoord": {
+            "lat": 45.7757888,
+            "lon": 9.7592511
+        },
+        "group": 393,
+        "estimatedCoord": {
+            "lat": 45.776639784946234,
+            "lon": 9.758978494623655
+        },
+        "distance": 96.98868875997054
+    },
+    {
+        "id": 513907211,
+        "name": "Monte Orfano",
+        "ele": "402",
+        "realCoord": {
+            "lat": 45.5821949,
+            "lon": 9.9677696
+        },
+        "group": 560,
+        "estimatedCoord": {
+            "lat": 45.58277777777778,
+            "lon": 9.966666666666665
+        },
+        "distance": 107.58928938147386
+    },
+    {
+        "id": 513907226,
+        "name": "Monte del Castello",
+        "ele": "624",
+        "realCoord": {
+            "lat": 45.665692,
+            "lon": 9.881606
+        },
+        "group": 500,
+        "estimatedCoord": {
+            "lat": 45.66540229885057,
+            "lon": 9.881580459770115
+        },
+        "distance": 32.28451057742876
+    },
+    {
+        "id": 513907247,
+        "name": "Monte Santo Stefano",
+        "ele": "547",
+        "realCoord": {
+            "lat": 45.6659434,
+            "lon": 9.8541458
+        },
+        "group": 481,
+        "estimatedCoord": {
+            "lat": 45.66586805555556,
+            "lon": 9.85454861111111
+        },
+        "distance": 32.41344258089561
+    },
+    {
+        "id": 513907273,
+        "name": "Monte dell'Ingannolo",
+        "ele": "561",
+        "realCoord": {
+            "lat": 45.6707696,
+            "lon": 9.8907354
+        },
+        "group": 508,
+        "estimatedCoord": {
+            "lat": 45.670833333333334,
+            "lon": 9.890833333333333
+        },
+        "distance": 10.401701825054243
+    },
+    {
+        "id": 513907299,
+        "name": "Monte Sega",
+        "ele": "710",
+        "realCoord": {
+            "lat": 45.6925682,
+            "lon": 9.8867997
+        },
+        "group": 503,
+        "estimatedCoord": {
+            "lat": 45.69273333333332,
+            "lon": 9.887533333333332
+        },
+        "distance": 59.88588295164124
+    },
+    {
+        "id": 513907332,
+        "name": "Monte Alto",
+        "ele": "650",
+        "realCoord": {
+            "lat": 45.6427399,
+            "lon": 9.976247
+        },
+        "group": 568,
+        "estimatedCoord": {
+            "lat": 45.643224637681165,
+            "lon": 9.975833333333334
+        },
+        "distance": 62.78433921001063
+    },
+    {
+        "id": 513907351,
+        "name": "Monte Sant'Onofrio",
+        "ele": "462",
+        "realCoord": {
+            "lat": 45.6478667,
+            "lon": 9.9537852
+        },
+        "group": 546,
+        "estimatedCoord": {
+            "lat": 45.647749999999995,
+            "lon": 9.95283333333333
+        },
+        "distance": 75.1440207258982
+    },
+    {
+        "id": 513907362,
+        "name": "Monte Faeto",
+        "ele": "600",
+        "realCoord": {
+            "lat": 45.6812901,
+            "lon": 9.9741036
+        },
+        "group": 566,
+        "estimatedCoord": {
+            "lat": 45.680833333333325,
+            "lon": 9.973125
+        },
+        "distance": 91.45787260552704
+    },
+    {
+        "id": 513907364,
+        "name": "Corno Buco",
+        "ele": "966",
+        "realCoord": {
+            "lat": 45.6924764,
+            "lon": 9.995549
+        },
+        "group": 594,
+        "estimatedCoord": {
+            "lat": 45.69266025641026,
+            "lon": 9.995897435897433
+        },
+        "distance": 33.92775832378644
+    },
+    {
+        "id": 513907369,
+        "name": "Monte Dratto",
+        "ele": "540",
+        "realCoord": {
+            "lat": 45.68133,
+            "lon": 9.9337824
+        },
+        "group": 532,
+        "estimatedCoord": {
+            "lat": 45.6825,
+            "lon": 9.931666666666667
+        },
+        "distance": 209.68499503400147
+    },
+    {
+        "id": 513907375,
+        "name": "Pizzo Casgnola",
+        "ele": "792",
+        "realCoord": {
+            "lat": 45.7216815,
+            "lon": 9.8566221
+        },
+        "group": 485,
+        "estimatedCoord": {
+            "lat": 45.721666666666664,
+            "lon": 9.856666666666667
+        },
+        "distance": 3.833973291513811
+    },
+    {
+        "id": 513907376,
+        "name": "Monte Pranza",
+        "ele": "1095",
+        "realCoord": {
+            "lat": 45.7352772,
+            "lon": 9.8708675
+        },
+        "group": 492,
+        "estimatedCoord": {
+            "lat": 45.73576388888888,
+            "lon": 9.871250000000002
+        },
+        "distance": 61.744203933790736
+    },
+    {
+        "id": 513907453,
+        "name": "Monte Sasser",
+        "ele": "488",
+        "realCoord": {
+            "lat": 45.71122,
+            "lon": 9.8485576
+        },
+        "group": 478,
+        "estimatedCoord": {
+            "lat": 45.7113888888889,
+            "lon": 9.848703703703706
+        },
+        "distance": 21.946867832530604
+    },
+    {
+        "id": 513907454,
+        "name": "Colle La Guina",
+        "ele": "653",
+        "realCoord": {
+            "lat": 45.7072629,
+            "lon": 9.895304
+        },
+        "group": 512,
+        "estimatedCoord": {
+            "lat": 45.70738095238095,
+            "lon": 9.895
+        },
+        "distance": 27.01845598312817
+    },
+    {
+        "id": 513907456,
+        "name": "Pizzo di Quaglia",
+        "ele": "470",
+        "realCoord": {
+            "lat": 45.7150226,
+            "lon": 9.8945847
+        },
+        "group": 510,
+        "estimatedCoord": {
+            "lat": 45.715392156862755,
+            "lon": 9.894803921568627
+        },
+        "distance": 44.49214035556285
+    },
+    {
+        "id": 513907462,
+        "name": "Punta Campo Alto",
+        "ele": "674",
+        "realCoord": {
+            "lat": 45.7032314,
+            "lon": 9.8972519
+        },
+        "group": 513,
+        "estimatedCoord": {
+            "lat": 45.70309523809523,
+            "lon": 9.897380952380953
+        },
+        "distance": 18.162490057561605
+    },
+    {
+        "id": 513907464,
+        "name": "Pizzo Mosca",
+        "ele": "692",
+        "realCoord": {
+            "lat": 45.7036481,
+            "lon": 9.9033356
+        },
+        "group": 518,
+        "estimatedCoord": {
+            "lat": 45.70355555555555,
+            "lon": 9.903277777777776
+        },
+        "distance": 11.230977877250524
+    },
+    {
+        "id": 513907466,
+        "name": "Monte Costa Dei Ronchi",
+        "ele": "727",
+        "realCoord": {
+            "lat": 45.7053401,
+            "lon": 9.9189309
+        },
+        "group": 523,
+        "estimatedCoord": {
+            "lat": 45.70535087719296,
+            "lon": 9.918333333333333
+        },
+        "distance": 46.432775007386695
+    },
+    {
+        "id": 513907469,
+        "name": "Monte Altinello",
+        "ele": "996",
+        "realCoord": {
+            "lat": 45.7636986,
+            "lon": 9.8705817
+        },
+        "group": 491,
+        "estimatedCoord": {
+            "lat": 45.76401041666666,
+            "lon": 9.87109375
+        },
+        "distance": 52.741255642385426
+    },
+    {
+        "id": 513907472,
+        "name": "Monte Crocione",
+        "ele": "998",
+        "realCoord": {
+            "lat": 45.7785121,
+            "lon": 9.9015093
+        },
+        "group": 517,
+        "estimatedCoord": {
+            "lat": 45.77842592592593,
+            "lon": 9.901604938271605
+        },
+        "distance": 12.12101624597434
+    },
+    {
+        "id": 513907473,
+        "name": "Monte Altino",
+        "ele": "1018",
+        "realCoord": {
+            "lat": 45.7642291,
+            "lon": 9.8515539
+        },
+        "group": 479,
+        "estimatedCoord": {
+            "lat": 45.76370370370371,
+            "lon": 9.850370370370374
+        },
+        "distance": 108.85403814142343
+    },
+    {
+        "id": 513907478,
+        "name": "Monte Ballerino",
+        "ele": "1270",
+        "realCoord": {
+            "lat": 45.7451252,
+            "lon": 9.9339074
+        },
+        "group": 534,
+        "estimatedCoord": {
+            "lat": 45.74506172839506,
+            "lon": 9.934660493827161
+        },
+        "distance": 58.881382061618886
+    },
+    {
+        "id": 513907482,
+        "name": "Monte di Grone",
+        "ele": "1086",
+        "realCoord": {
+            "lat": 45.7180864,
+            "lon": 9.9392474
+        },
+        "group": 537,
+        "estimatedCoord": {
+            "lat": 45.71872222222222,
+            "lon": 9.939583333333333
+        },
+        "distance": 75.38073467019339
+    },
+    {
+        "id": 513907484,
+        "name": "Monte Gremalto",
+        "ele": "1322.4",
+        "realCoord": {
+            "lat": 45.7447644,
+            "lon": 9.9471169
+        },
+        "group": 541,
+        "estimatedCoord": {
+            "lat": 45.74458333333333,
+            "lon": 9.9471875
+        },
+        "distance": 20.87228436815597
+    },
+    {
+        "id": 513907485,
+        "name": "Cima Campidelli",
+        "ele": "1175",
+        "realCoord": {
+            "lat": 45.7352175,
+            "lon": 9.9882189
+        },
+        "group": 585,
+        "estimatedCoord": {
+            "lat": 45.735416666666666,
+            "lon": 9.988333333333333
+        },
+        "distance": 23.86827813350753
+    },
+    {
+        "id": 513907487,
+        "name": "Punta Piagnola",
+        "ele": "1226",
+        "realCoord": {
+            "lat": 45.7137753,
+            "lon": 9.9899411
+        },
+        "group": 582,
+        "estimatedCoord": {
+            "lat": 45.714924242424246,
+            "lon": 9.989015151515153
+        },
+        "distance": 146.6408532103811
+    },
+    {
+        "id": 513907488,
+        "name": "Monte Foppa",
+        "ele": "1265.3",
+        "realCoord": {
+            "lat": 45.7459386,
+            "lon": 9.9608175
+        },
+        "group": 552,
+        "estimatedCoord": {
+            "lat": 45.74604166666666,
+            "lon": 9.960902777777779
+        },
+        "distance": 13.237851647004776
+    },
+    {
+        "id": 513907496,
+        "name": "Monte Bronzone",
+        "ele": "1334",
+        "realCoord": {
+            "lat": 45.7089389,
+            "lon": 9.9909656
+        },
+        "group": 588,
+        "estimatedCoord": {
+            "lat": 45.70854166666667,
+            "lon": 9.991111111111108
+        },
+        "distance": 45.606832796313675
+    },
+    {
+        "id": 513907498,
+        "name": "Col Forca",
+        "ele": "1048",
+        "realCoord": {
+            "lat": 45.7223151,
+            "lon": 9.9505989
+        },
+        "group": 545,
+        "estimatedCoord": {
+            "lat": 45.72249999999999,
+            "lon": 9.950833333333334
+        },
+        "distance": 27.466029578138368
+    },
+    {
+        "id": 514612932,
+        "name": "Monte Due Mani",
+        "ele": "1666",
+        "realCoord": {
+            "lat": 45.8993607,
+            "lon": 9.4496774
+        },
+        "group": 191,
+        "estimatedCoord": {
+            "lat": 45.89867647058823,
+            "lon": 9.449264705882351
+        },
+        "distance": 82.53944188251606
+    },
+    {
+        "id": 534216976,
+        "name": "Monte Giacoma",
+        "ele": "587",
+        "realCoord": {
+            "lat": 45.758592,
+            "lon": 9.62843
+        },
+        "group": 317,
+        "estimatedCoord": {
+            "lat": 45.75863095238095,
+            "lon": 9.629136904761904
+        },
+        "distance": 55.028859913844656
+    },
+    {
+        "id": 534225350,
+        "name": "Monte Castello",
+        "ele": "1089",
+        "realCoord": {
+            "lat": 45.805127,
+            "lon": 9.7201252
+        },
+        "group": 371,
+        "estimatedCoord": {
+            "lat": 45.80494047619046,
+            "lon": 9.720624999999997
+        },
+        "distance": 43.95785568175189
+    },
+    {
+        "id": 534252253,
+        "name": "Monte Grione",
+        "ele": "1381",
+        "realCoord": {
+            "lat": 45.8112161,
+            "lon": 9.974844
+        },
+        "group": 567,
+        "estimatedCoord": {
+            "lat": 45.811346153846166,
+            "lon": 9.974551282051284
+        },
+        "distance": 26.912752156273882
+    },
+    {
+        "id": 534254581,
+        "name": "Monte Sicolo",
+        "ele": "1273",
+        "realCoord": {
+            "lat": 45.763791,
+            "lon": 9.9828581
+        },
+        "group": 577,
+        "estimatedCoord": {
+            "lat": 45.76384615384615,
+            "lon": 9.983589743589743
+        },
+        "distance": 57.103035686913294
+    },
+    {
+        "id": 534262272,
+        "name": "Il Colle",
+        "ele": "490",
+        "realCoord": {
+            "lat": 45.6769879,
+            "lon": 9.9652384
+        },
+        "group": 557,
+        "estimatedCoord": {
+            "lat": 45.676833333333335,
+            "lon": 9.964083333333333
+        },
+        "distance": 91.39948405165566
+    },
+    {
+        "id": 544300068,
+        "name": "Monte Rai",
+        "ele": "1260",
+        "realCoord": {
+            "lat": 45.8434263,
+            "lon": 9.3209984
+        },
+        "group": 130,
+        "estimatedCoord": {
+            "lat": 45.84308823529412,
+            "lon": 9.321029411764707
+        },
+        "distance": 37.67958134714752
+    },
+    {
+        "id": 581372307,
+        "name": "Colle di Ranica",
+        "realCoord": {
+            "lat": 45.7373621,
+            "lon": 9.6961339
+        },
+        "group": 355,
+        "estimatedCoord": {
+            "lat": 45.737261904761894,
+            "lon": 9.695238095238095
+        },
+        "distance": 70.43112720856412
+    },
+    {
+        "id": 858933931,
+        "name": "Montagnina",
+        "ele": "1598",
+        "realCoord": {
+            "lat": 45.8444933,
+            "lon": 9.9435989
+        },
+        "group": 540,
+        "estimatedCoord": {
+            "lat": 45.84435897435897,
+            "lon": 9.943846153846154
+        },
+        "distance": 24.295442309803374
+    },
+    {
+        "id": 875592644,
+        "name": "Poncione di Cabbio",
+        "realCoord": {
+            "lat": 45.9126664,
+            "lon": 9.0683914
+        },
+        "group": 29,
+        "estimatedCoord": {
+            "lat": 45.91236666666667,
+            "lon": 9.068166666666666
+        },
+        "distance": 37.60298489825696
+    },
+    {
+        "id": 1109358364,
+        "name": "Monte Canto",
+        "ele": "700",
+        "realCoord": {
+            "lat": 45.7224111,
+            "lon": 9.4871379
+        },
+        "group": 228,
+        "estimatedCoord": {
+            "lat": 45.72227777777778,
+            "lon": 9.486444444444444
+        },
+        "distance": 55.8538988228708
+    },
+    {
+        "id": 1144810044,
+        "name": "Monte di San Genesio",
+        "ele": "846",
+        "realCoord": {
+            "lat": 45.7587725,
+            "lon": 9.3955585
+        },
+        "group": 169,
+        "estimatedCoord": {
+            "lat": 45.759166666666665,
+            "lon": 9.393916666666666
+        },
+        "distance": 134.74301149062615
+    },
+    {
+        "id": 1352887396,
+        "name": "Monte Campone",
+        "ele": "351",
+        "realCoord": {
+            "lat": 45.0211086,
+            "lon": 9.2149213
+        },
+        "group": 90,
+        "estimatedCoord": {
+            "lat": 45.02125,
+            "lon": 9.214761904761906
+        },
+        "distance": 20.110153708304352
+    },
+    {
+        "id": 1371298357,
+        "name": "Colle San Giovanni",
+        "ele": "290",
+        "realCoord": {
+            "lat": 45.6723747,
+            "lon": 9.795212
+        },
+        "group": 430,
+        "estimatedCoord": {
+            "lat": 45.6725,
+            "lon": 9.795083333333334
+        },
+        "distance": 17.153706258636838
+    },
+    {
+        "id": 1372930301,
+        "name": "Baraghetto",
+        "ele": "1694",
+        "realCoord": {
+            "lat": 45.933537,
+            "lon": 9.0206159
+        },
+        "group": 15,
+        "estimatedCoord": {
+            "lat": 45.93108695652173,
+            "lon": 9.020253623188404
+        },
+        "distance": 273.95526469504665
+    },
+    {
+        "id": 1652158357,
+        "name": "Dosmat",
+        "ele": "1282",
+        "realCoord": {
+            "lat": 45.8372058,
+            "lon": 9.1698808
+        },
+        "group": 64,
+        "estimatedCoord": {
+            "lat": 45.836666666666666,
+            "lon": 9.170277777777777
+        },
+        "distance": 67.39819119379858
+    },
+    {
+        "id": 1655045627,
+        "name": "Costone",
+        "ele": "1195",
+        "realCoord": {
+            "lat": 45.7785596,
+            "lon": 9.7164043
+        },
+        "group": 370,
+        "estimatedCoord": {
+            "lat": 45.77877777777778,
+            "lon": 9.716277777777778
+        },
+        "distance": 26.177546862882725
+    },
+    {
+        "id": 1655045632,
+        "name": "Filaressa",
+        "ele": "1134",
+        "realCoord": {
+            "lat": 45.7739584,
+            "lon": 9.7154429
+        },
+        "group": 369,
+        "estimatedCoord": {
+            "lat": 45.77333333333335,
+            "lon": 9.714861111111112
+        },
+        "distance": 82.89255010417855
+    },
+    {
+        "id": 1876921756,
+        "name": "Monte Aralalta",
+        "ele": "2003",
+        "realCoord": {
+            "lat": 45.9452682,
+            "lon": 9.5769696
+        },
+        "group": 288,
+        "estimatedCoord": {
+            "lat": 45.94607843137255,
+            "lon": 9.579019607843136
+        },
+        "distance": 182.37589854495457
+    },
+    {
+        "id": 2175057377,
+        "name": "Sasso di Cavallasca",
+        "ele": "614",
+        "realCoord": {
+            "lat": 45.8178012,
+            "lon": 9.0404899
+        },
+        "group": 22,
+        "estimatedCoord": {
+            "lat": 45.81857142857144,
+            "lon": 9.041468253968256
+        },
+        "distance": 114.41942303244302
+    },
+    {
+        "id": 2265947146,
+        "name": "Croce del Grione",
+        "ele": "1200",
+        "realCoord": {
+            "lat": 45.8085361,
+            "lon": 9.9953806
+        },
+        "group": 592,
+        "estimatedCoord": {
+            "lat": 45.80892857142858,
+            "lon": 9.994642857142857
+        },
+        "distance": 71.95502424132549
+    },
+    {
+        "id": 2318176652,
+        "name": "Cima Pozzi",
+        "ele": "1810",
+        "realCoord": {
+            "lat": 45.8636197,
+            "lon": 9.4640687
+        },
+        "group": 204,
+        "estimatedCoord": {
+            "lat": 45.86416666666666,
+            "lon": 9.464444444444444
+        },
+        "distance": 67.44198407222987
+    },
+    {
+        "id": 2318176661,
+        "name": "Dente",
+        "ele": "1810",
+        "realCoord": {
+            "lat": 45.8615579,
+            "lon": 9.4640121
+        },
+        "group": 203,
+        "estimatedCoord": {
+            "lat": 45.86166666666666,
+            "lon": 9.464166666666667
+        },
+        "distance": 17.02085384446052
+    },
+    {
+        "id": 2352499028,
+        "name": "Cima della Croce",
+        "ele": "1975",
+        "realCoord": {
+            "lat": 45.8729183,
+            "lon": 9.7764542
+        },
+        "group": 410,
+        "estimatedCoord": {
+            "lat": 45.87265151515152,
+            "lon": 9.778030303030304
+        },
+        "distance": 125.61538000512535
+    },
+    {
+        "id": 2367936026,
+        "name": "Cima Quarenghi",
+        "ele": "1637",
+        "realCoord": {
+            "lat": 45.8446838,
+            "lon": 9.477697
+        },
+        "group": 222,
+        "estimatedCoord": {
+            "lat": 45.845530303030294,
+            "lon": 9.477878787878787
+        },
+        "distance": 95.20412368513807
+    },
+    {
+        "id": 2367936032,
+        "name": "Pizzo Brumano",
+        "ele": "1851",
+        "realCoord": {
+            "lat": 45.854982,
+            "lon": 9.4734276
+        },
+        "group": 219,
+        "estimatedCoord": {
+            "lat": 45.85464285714286,
+            "lon": 9.47464285714286
+        },
+        "distance": 101.42139391025013
+    },
+    {
+        "id": 2370752487,
+        "name": "Cima Piazzo",
+        "ele": "1640",
+        "realCoord": {
+            "lat": 45.8458629,
+            "lon": 9.4780982
+        },
+        "group": 222,
+        "estimatedCoord": {
+            "lat": 45.845530303030294,
+            "lon": 9.477878787878787
+        },
+        "distance": 40.71393381316487
+    },
+    {
+        "id": 2383447391,
+        "name": "Monte Spondone",
+        "ele": "2445",
+        "realCoord": {
+            "lat": 45.9804761,
+            "lon": 9.7942859
+        },
+        "group": 428,
+        "estimatedCoord": {
+            "lat": 45.981666666666655,
+            "lon": 9.7941
+        },
+        "distance": 133.20378638961398
+    },
+    {
+        "id": 2388946168,
+        "name": "Monte Vindiolo",
+        "ele": "2056",
+        "realCoord": {
+            "lat": 45.9441357,
+            "lon": 9.783712
+        },
+        "group": 421,
+        "estimatedCoord": {
+            "lat": 45.94408333333334,
+            "lon": 9.783916666666668
+        },
+        "distance": 16.867513589257197
+    },
+    {
+        "id": 2418254451,
+        "name": "Monte Castello",
+        "realCoord": {
+            "lat": 45.8504814,
+            "lon": 9.8163385
+        },
+        "group": 453,
+        "estimatedCoord": {
+            "lat": 45.850833333333334,
+            "lon": 9.816666666666666
+        },
+        "distance": 46.677462396070176
+    },
+    {
+        "id": 2497090231,
+        "name": "Pizzo delle Orobie",
+        "ele": "2340",
+        "realCoord": {
+            "lat": 45.9866966,
+            "lon": 9.7931996
+        },
+        "group": 427,
+        "estimatedCoord": {
+            "lat": 45.987083333333324,
+            "lon": 9.793055555555554
+        },
+        "distance": 44.43346521239096
+    },
+    {
+        "id": 2517724312,
+        "name": "Monte San Zeno",
+        "ele": "1025",
+        "realCoord": {
+            "lat": 45.9323777,
+            "lon": 9.0878056
+        },
+        "group": 35,
+        "estimatedCoord": {
+            "lat": 45.93217479674797,
+            "lon": 9.087987804878049
+        },
+        "distance": 26.609037955820813
+    },
+    {
+        "id": 2531234146,
+        "name": "Chignol d'Aral",
+        "ele": "2068",
+        "realCoord": {
+            "lat": 45.9225805,
+            "lon": 9.7517796
+        },
+        "group": 391,
+        "estimatedCoord": {
+            "lat": 45.92212962962963,
+            "lon": 9.751759259259261
+        },
+        "distance": 50.17492638510202
+    },
+    {
+        "id": 2617207603,
+        "name": "Cima Foppazzi",
+        "ele": "2097",
+        "realCoord": {
+            "lat": 45.9116267,
+            "lon": 9.8263575
+        },
+        "group": 459,
+        "estimatedCoord": {
+            "lat": 45.9115,
+            "lon": 9.82690476190476
+        },
+        "distance": 44.63582398769388
+    },
+    {
+        "id": 2899043229,
+        "name": "Montorfano",
+        "ele": "554",
+        "realCoord": {
+            "lat": 45.7882352,
+            "lon": 9.146478
+        },
+        "group": 58,
+        "estimatedCoord": {
+            "lat": 45.78839743589744,
+            "lon": 9.145448717948717
+        },
+        "distance": 81.84708170353211
+    },
+    {
+        "id": 3113742970,
+        "name": "Corno del Nibbio Settentrionale",
+        "ele": "1368",
+        "realCoord": {
+            "lat": 45.9050606,
+            "lon": 9.4020573
+        },
+        "group": 172,
+        "estimatedCoord": {
+            "lat": 45.903461538461535,
+            "lon": 9.403141025641025
+        },
+        "distance": 196.65031161798893
+    },
+    {
+        "id": 3235333513,
+        "name": "Monte Ponciv",
+        "ele": "1452",
+        "realCoord": {
+            "lat": 45.9151113,
+            "lon": 9.2404537
+        },
+        "group": 105,
+        "estimatedCoord": {
+            "lat": 45.91477777777778,
+            "lon": 9.240166666666667
+        },
+        "distance": 43.23904712967108
+    },
+    {
+        "id": 3400664539,
+        "name": "Collina del Penz",
+        "ele": "562",
+        "realCoord": {
+            "lat": 45.8307012,
+            "lon": 9.0025325
+        },
+        "group": 1,
+        "estimatedCoord": {
+            "lat": 45.83013888888888,
+            "lon": 9.004305555555554
+        },
+        "distance": 150.98192578939708
+    },
+    {
+        "id": 3620548145,
+        "name": "Cima di Valsanguigno Or.",
+        "ele": "2560",
+        "realCoord": {
+            "lat": 45.9921811,
+            "lon": 9.8366732
+        },
+        "group": 467,
+        "estimatedCoord": {
+            "lat": 45.99186274509804,
+            "lon": 9.83671568627451
+        },
+        "distance": 35.56244749061238
+    },
+    {
+        "id": 3763738112,
+        "name": "Cima di Mezzeno",
+        "ele": "2230",
+        "realCoord": {
+            "lat": 45.9778382,
+            "lon": 9.8099819
+        },
+        "group": 448,
+        "estimatedCoord": {
+            "lat": 45.9775,
+            "lon": 9.809924242424243
+        },
+        "distance": 37.881021439137115
+    },
+    {
+        "id": 3815369518,
+        "name": "Monte Generoso",
+        "ele": "1701",
+        "realCoord": {
+            "lat": 45.931274,
+            "lon": 9.0198924
+        },
+        "group": 15,
+        "estimatedCoord": {
+            "lat": 45.93108695652173,
+            "lon": 9.020253623188404
+        },
+        "distance": 34.83929215774614
+    },
+    {
+        "id": 3916414212,
+        "name": "Braga di Cavallo",
+        "ele": "1354",
+        "realCoord": {
+            "lat": 45.8765725,
+            "lon": 9.2115316
+        },
+        "group": 89,
+        "estimatedCoord": {
+            "lat": 45.876666666666665,
+            "lon": 9.211666666666666
+        },
+        "distance": 14.802259082748469
+    },
+    {
+        "id": 3962692247,
+        "name": "Monte Colla",
+        "ele": "1097",
+        "realCoord": {
+            "lat": 45.8978041,
+            "lon": 9.2754507
+        },
+        "group": 116,
+        "estimatedCoord": {
+            "lat": 45.89833333333333,
+            "lon": 9.27625
+        },
+        "distance": 85.40219278243455
+    },
+    {
+        "id": 4078205866,
+        "name": "Colle Alto o Colle San Geminiano",
+        "ele": "332",
+        "realCoord": {
+            "lat": 45.6652285,
+            "lon": 9.787283
+        },
+        "group": 425,
+        "estimatedCoord": {
+            "lat": 45.66526666666667,
+            "lon": 9.7872
+        },
+        "distance": 7.723240168627196
+    },
+    {
+        "id": 4126936290,
+        "name": "Monte Oriolo",
+        "ele": "1092",
+        "realCoord": {
+            "lat": 45.8918364,
+            "lon": 9.2724833
+        },
+        "group": 115,
+        "estimatedCoord": {
+            "lat": 45.89477777777778,
+            "lon": 9.274555555555557
+        },
+        "distance": 364.3839669054094
+    },
+    {
+        "id": 4171316008,
+        "name": "Dosso D'Arla",
+        "ele": "1170",
+        "realCoord": {
+            "lat": 45.905151,
+            "lon": 9.0638533
+        },
+        "group": 27,
+        "estimatedCoord": {
+            "lat": 45.90430555555556,
+            "lon": 9.06375
+        },
+        "distance": 94.37792575709214
+    },
+    {
+        "id": 4230870203,
+        "name": "Monte della Croce",
+        "ele": "508",
+        "realCoord": {
+            "lat": 45.651756,
+            "lon": 9.9007116
+        },
+        "group": 515,
+        "estimatedCoord": {
+            "lat": 45.65219298245614,
+            "lon": 9.900657894736842
+        },
+        "distance": 48.78451942327015
+    },
+    {
+        "id": 4409682491,
+        "name": "Pizzo Farno",
+        "ele": "2506",
+        "realCoord": {
+            "lat": 45.98903,
+            "lon": 9.8261633
+        },
+        "group": 456,
+        "estimatedCoord": {
+            "lat": 45.98981884057971,
+            "lon": 9.825108695652172
+        },
+        "distance": 119.75493484831112
+    },
+    {
+        "id": 4451792446,
+        "name": "Monte Camplano",
+        "ele": "2054",
+        "realCoord": {
+            "lat": 45.9269338,
+            "lon": 9.8301236
+        },
+        "group": 461,
+        "estimatedCoord": {
+            "lat": 45.92604166666666,
+            "lon": 9.830208333333333
+        },
+        "distance": 99.44815960197208
+    },
+    {
+        "id": 4452297690,
+        "name": "il Cimetto",
+        "ele": "1985",
+        "realCoord": {
+            "lat": 45.9189073,
+            "lon": 9.8240509
+        },
+        "group": 457,
+        "estimatedCoord": {
+            "lat": 45.919375,
+            "lon": 9.824166666666667
+        },
+        "distance": 52.78781951438465
+    },
+    {
+        "id": 4566610990,
+        "name": "Cima Tagliate",
+        "ele": "1094",
+        "realCoord": {
+            "lat": 45.8611727,
+            "lon": 9.924172
+        },
+        "group": 525,
+        "estimatedCoord": {
+            "lat": 45.86136363636363,
+            "lon": 9.923636363636364
+        },
+        "distance": 46.61017591261811
+    },
+    {
+        "id": 4567201684,
+        "name": "Monte Mencucca",
+        "ele": "2117",
+        "realCoord": {
+            "lat": 45.9712024,
+            "lon": 9.7731717
+        },
+        "group": 406,
+        "estimatedCoord": {
+            "lat": 45.97010869565216,
+            "lon": 9.771847826086953
+        },
+        "distance": 158.97791003758667
+    },
+    {
+        "id": 4567201685,
+        "name": "Monte Malfa",
+        "realCoord": {
+            "lat": 45.9670107,
+            "lon": 9.768008
+        },
+        "group": 402,
+        "estimatedCoord": {
+            "lat": 45.9675,
+            "lon": 9.768333333333333
+        },
+        "distance": 59.95576083502637
+    },
+    {
+        "id": 4772203867,
+        "name": "Monte Ocone",
+        "realCoord": {
+            "lat": 45.8267244,
+            "lon": 9.4732762
+        },
+        "group": 214,
+        "estimatedCoord": {
+            "lat": 45.825769230769225,
+            "lon": 9.473397435897436
+        },
+        "distance": 106.65806624281228
+    }
+]

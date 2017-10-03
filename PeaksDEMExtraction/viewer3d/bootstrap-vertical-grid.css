@@ -1,0 +1,68 @@
+html, body {
+  height: 100%;
+}
+
+.y100 {
+  height: 100%;
+}
+
+.text-center {
+  width: 100%;
+}
+
+.y-grid {
+  height: 100%;
+}
+
+.y-row-1 {
+  height: 8.33333%;
+}
+
+.y-row-2 {
+  height: 16.66667%;
+}
+
+.y-row-3 {
+  height: 25%;
+}
+
+.y-row-4 {
+  height: 33.33333%;
+}
+
+.y-row-5 {
+  height: 41.66667%;
+}
+
+.y-row-6 {
+  height: 50%;
+}
+
+.y-row-7 {
+  height: 58.33333%;
+}
+
+.y-row-8 {
+  height: 66.66667%;
+}
+
+.y-row-9 {
+  height: 75%;
+}
+
+.y-row-10 {
+  height: 83.33333%;
+}
+
+.y-row-11 {
+  height: 91.66667%;
+}
+
+.y-row-12 {
+  height: 100%;
+}
+
+.y-row-gutter {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}

@@ -1,0 +1,599 @@
+{"lat":45.9533709,"lon":9.3877024,"name":"Grigna Settentrionale","ele":"2410","id":26863030}
+{"lat":45.8622222,"lon":9.7819444,"name":"Monte Alben","ele":"2019","id":26863780}
+{"lat":45.9154362,"lon":9.2098416,"name":"Monte San Primo","ele":"1681","id":26863959}
+{"lat":45.9345913,"lon":9.8158164,"name":"Pizzo Arera","ele":"2512","id":26864315}
+{"lat":45.8584126,"lon":9.4688633,"name":"Resegone di Lecco","ele":"1875","id":26864438}
+{"lat":45.7583381,"lon":9.9626213,"name":"Monte Torrezzo","ele":"1378","id":26864942}
+{"lat":45.7648039,"lon":9.7726854,"name":"Monte Cereto","ele":"936","id":282379065}
+{"lat":45.9836198,"lon":9.8256305,"name":"Monte Corte","ele":"2430","id":307214395}
+{"lat":45.8371419,"lon":9.1793759,"name":"Monte Bolettone","ele":"1320","id":314469663}
+{"lat":45.770042,"lon":9.669942,"name":"Canto Alto","ele":"1146","id":355313919}
+{"lat":45.7639813,"lon":9.6874734,"name":"Canto Basso","ele":"901","id":428309275}
+{"lat":45.9604996,"lon":9.7358956,"name":"Porta delle Cornacchie","id":435528039}
+{"lat":45.8610901,"lon":9.3327028,"name":"Corno Orientale","ele":"1239","id":447910238}
+{"lat":45.9360539,"lon":9.0558509,"name":"Pizzo della Croce","ele":"1489","id":457365444}
+{"lat":45.972618,"lon":9.0954838,"name":"Monte Luria","ele":"1286","id":457365449}
+{"lat":45.7981911,"lon":9.0721871,"name":"Monte Caprino","ele":"453","id":457365453}
+{"lat":45.9110974,"lon":9.0892683,"name":"Monte Fontanella","ele":"1223","id":457365458}
+{"lat":45.9627941,"lon":9.0555551,"name":"Monte Prada","ele":"1090","id":457365459}
+{"lat":45.9501288,"lon":9.039036,"name":"Monte d'Orimento","ele":"1383","id":457365462}
+{"lat":45.9611897,"lon":9.040241,"name":"Monte Alpe Nuovo","ele":"1192","id":457365464}
+{"lat":45.8788822,"lon":9.0932458,"name":"Poncione della Costa","ele":"1251","id":457365466}
+{"lat":45.854059,"lon":9.0520736,"name":"Pizzo Meda","ele":"890","id":457365469}
+{"lat":45.873663,"lon":9.0665861,"name":"Monte Bisbino","ele":"1325","id":457365475}
+{"lat":45.9119945,"lon":9.0809809,"name":"Sasso Gordona","ele":"1406","id":457365477}
+{"lat":45.9606067,"lon":9.0141942,"name":"Sasso Bovè","ele":"1015","id":457365483}
+{"lat":45.9935154,"lon":9.0357763,"name":"Monte Caslè","ele":"1030","id":457365493}
+{"lat":45.8067507,"lon":9.0134958,"name":"Monte Cucco","ele":"473","id":457365501}
+{"lat":45.8162151,"lon":9.0098266,"name":"Poggio Bruciato","ele":"542","id":457365505}
+{"lat":45.7893465,"lon":9.10106,"name":"Monte Tre Croci","ele":"477","id":457365510}
+{"lat":45.9677907,"lon":9.0279713,"name":"Il Monticello","ele":"987","id":457365514}
+{"lat":45.9675693,"lon":9.0041496,"name":"Monte Creggio","ele":"1184","id":457365517}
+{"lat":45.8964187,"lon":9.1069628,"name":"Monte San Bernardo","ele":"1349","id":457398061}
+{"lat":45.8364161,"lon":9.132776,"name":"Monte Astele","ele":"1183","id":457398063}
+{"lat":45.8337011,"lon":9.1423689,"name":"Monte Boletto","ele":"1238","id":457398064}
+{"lat":45.9189394,"lon":9.1159962,"name":"Monte Comana","ele":"1210","id":457398067}
+{"lat":45.8433984,"lon":9.1200379,"name":"Croce d'Ardona","ele":"1002","id":457398068}
+{"lat":45.8364752,"lon":9.1250105,"name":"Pizzo dei Tre Termini","ele":"1144","id":457398069}
+{"lat":45.9268612,"lon":9.1749793,"name":"Monte Colmenacco","ele":"1261","id":457398074}
+{"lat":45.8924585,"lon":9.1182818,"name":"Monte Colmegnone","ele":"1378","id":457398076}
+{"lat":45.9285046,"lon":9.1180188,"name":"Monte Gringo","ele":"1079","id":457398077}
+{"lat":45.824685,"lon":9.1662269,"name":"Dosso della Merma","ele":"944","id":457398079}
+{"lat":45.8620611,"lon":9.2016384,"name":"Monte Palanzone","ele":"1435","id":457398080}
+{"lat":45.8797166,"lon":9.1839641,"name":"Monte Preaola","ele":"1413","id":457398081}
+{"lat":45.8401991,"lon":9.2050255,"name":"Monte Puscio","ele":"1141","id":457398082}
+{"lat":45.8692094,"lon":9.1943894,"name":"Monte di Faello","ele":"1335","id":457398083}
+{"lat":45.8864917,"lon":9.1738631,"name":"Monte di Careno","ele":"1226","id":457398085}
+{"lat":45.905103,"lon":9.1053129,"name":"Monte di Binate","ele":"1271","id":457398086}
+{"lat":45.9967813,"lon":9.1170242,"name":"Dosso di Prai","ele":"1164","id":457398088}
+{"lat":45.8534175,"lon":9.1914952,"name":"Pizzo dell'Asino","ele":"1270","id":457398089}
+{"lat":45.8902796,"lon":9.1717948,"name":"Monte Pol","ele":"1145","id":457398091}
+{"lat":45.9531962,"lon":9.1048923,"name":"Monte Gireglio","ele":"974","id":457398092}
+{"lat":45.900323,"lon":9.1631811,"name":"Monte Cappon","ele":"704","id":457398095}
+{"lat":45.984502,"lon":9.1467062,"name":"Cima della Duaria","ele":"1446","id":457398096}
+{"lat":45.8269527,"lon":9.1150244,"name":"Monte Uccellera","ele":"1026","id":457398099}
+{"lat":45.9627393,"lon":9.1146288,"name":"Monte Pasquella","ele":"1331","id":457398117}
+{"lat":45.9705806,"lon":9.1137027,"name":"Monte Sertore","ele":"1393","id":457398126}
+{"lat":45.967141,"lon":9.1996557,"name":"Dosso di Lavedo","ele":"329","id":457398137}
+{"lat":45.876257,"lon":9.1801768,"name":"Monte di Palanzo","ele":"1386","id":457398138}
+{"lat":45.8157934,"lon":9.1616956,"name":"Dosso Fagorato","ele":"855","id":457402173}
+{"lat":45.8370925,"lon":9.3019923,"name":"Monte Cornizzolo","ele":"1240","id":457470732}
+{"lat":45.8809634,"lon":9.3047174,"name":"Ceppo della Forca","ele":"596","id":457470737}
+{"lat":45.9059522,"lon":9.2223701,"name":"Monte Doardo","ele":"1400","id":457470738}
+{"lat":45.8820829,"lon":9.2097993,"name":"I Lardei","ele":"1335","id":457470739}
+{"lat":45.8988558,"lon":9.2408562,"name":"Monte Roncaglia","ele":"1297","id":457470741}
+{"lat":45.9040942,"lon":9.2492358,"name":"Monte Cornet / Gerbal","ele":"1316","id":457470742}
+{"lat":45.8580945,"lon":9.2164371,"name":"Colma Piana","ele":"1182","id":457470743}
+{"lat":45.8898615,"lon":9.2326759,"name":"Monte Cippei","ele":"1230","id":457470744}
+{"lat":45.931927,"lon":9.2199585,"name":"Monte Fopa","ele":"1116","id":457470745}
+{"lat":45.829642,"lon":9.2080681,"name":"Monte Panigas","ele":"901","id":457470747}
+{"lat":45.8350609,"lon":9.2657815,"name":"Monte Scioscia","ele":"667","id":457470752}
+{"lat":45.8470346,"lon":9.2359503,"name":"Monte Barzaghino","ele":"1063","id":457470757}
+{"lat":45.8272464,"lon":9.2569171,"name":"Monte Alto","ele":"560","id":457470758}
+{"lat":45.8508144,"lon":9.2360808,"name":"Dosso Mattone","ele":"1050","id":457470759}
+{"lat":45.8550428,"lon":9.2167262,"name":"Monte Orsera","ele":"1101","id":457470760}
+{"lat":45.9499654,"lon":9.2321759,"name":"Monte Nuvolone","ele":"1092","id":457470761}
+{"lat":45.8350064,"lon":9.2945374,"name":"Monte Pesora","ele":"1195","id":457470762}
+{"lat":45.8792236,"lon":9.2795198,"name":"Monte Megna","ele":"1049","id":457470763}
+{"lat":45.9609242,"lon":9.2567256,"name":"Monte Garnasca","ele":"694","id":457470764}
+{"lat":45.8742688,"lon":9.2088983,"name":"Monte Croce","ele":"1352","id":457470765}
+{"lat":45.8760652,"lon":9.2179942,"name":"Monte Pianchetta","ele":"1242","id":457470787}
+{"lat":45.8599077,"lon":9.2280684,"name":"Dosso della Fornace","ele":"996","id":457470792}
+{"lat":45.8812834,"lon":9.2259176,"name":"Monte Falò","ele":"1179","id":457470793}
+{"lat":45.8689154,"lon":9.2735649,"name":"Dosso Deo","ele":"723","id":457470794}
+{"lat":45.9116457,"lon":9.2811883,"name":"Castel de Leves","ele":"966","id":457470795}
+{"lat":45.9123666,"lon":9.2210002,"name":"Cima del Costone","ele":"1611","id":457470796}
+{"lat":45.9354007,"lon":9.2418488,"name":"Monte Grionsc","ele":"925","id":457470797}
+{"lat":45.9233175,"lon":9.2377916,"name":"Monte Forcella","ele":"1322","id":457470801}
+{"lat":45.9251187,"lon":9.2578508,"name":"Monte Corbera","ele":"997","id":457470811}
+{"lat":45.9398398,"lon":9.2240817,"name":"Ceppo del Mucchio","ele":"1081","id":457470814}
+{"lat":45.9488853,"lon":9.2532248,"name":"Dosso Maggiore","ele":"725","id":457470816}
+{"lat":45.8958116,"lon":9.2089387,"name":"Il Dosso","ele":"1004","id":457470820}
+{"lat":45.8307196,"lon":9.2493256,"name":"Monte Spinei","ele":"588","id":457470822}
+{"lat":45.9058626,"lon":9.2120619,"name":"Monte Lot","id":457470824}
+{"lat":45.8545204,"lon":9.2497049,"name":"Croce di Pizzallo","ele":"974","id":457470826}
+{"lat":45.85958,"lon":9.2962571,"name":"Sguancia","ele":"941","id":457470834}
+{"lat":45.8885719,"lon":9.2488407,"name":"La Torretta","ele":"1105","id":457470842}
+{"lat":45.9919948,"lon":9.3633694,"name":"Pizzo del Cich","ele":"1454","id":457488889}
+{"lat":45.9937904,"lon":9.3839158,"name":"Zucco della Colla","ele":"645","id":457488898}
+{"lat":45.9982822,"lon":9.3545567,"name":"Pizzo di Zirlaca","ele":"1408","id":457488904}
+{"lat":45.9764749,"lon":9.3782772,"name":"Pizzo Valansasca","ele":"1513","id":457488909}
+{"lat":45.9862202,"lon":9.3594211,"name":"Dosso della Chierica","ele":"1253","id":457488916}
+{"lat":45.9885052,"lon":9.3108708,"name":"Monte Fopp","ele":"1090","id":457488924}
+{"lat":45.9723296,"lon":9.3719322,"name":"Sass dell'Ave Maria","ele":"1507","id":457488933}
+{"lat":45.9717733,"lon":9.385026,"name":"Cima Palone","ele":"1995","id":457488940}
+{"lat":45.9723109,"lon":9.3559274,"name":"Monte Pilastro","ele":"1827","id":457488941}
+{"lat":45.9739722,"lon":9.3522834,"name":"Monte Croce","ele":"1780","id":457488954}
+{"lat":45.9756785,"lon":9.3630381,"name":"L'Ometto","ele":"1421","id":457488960}
+{"lat":45.9763224,"lon":9.3470435,"name":"Monte Saetta","ele":"1627","id":457488965}
+{"lat":45.978038,"lon":9.3221655,"name":"Monte Parolo","ele":"1203","id":457488971}
+{"lat":45.9800909,"lon":9.3404284,"name":"Sasso di Petua","ele":"1404","id":457488986}
+{"lat":45.9997045,"lon":9.325856,"name":"Sasso del Buco","ele":"934","id":457489006}
+{"lat":45.9670773,"lon":9.368835,"name":"Belvedere","ele":"1832","id":457489012}
+{"lat":45.9819402,"lon":9.3665987,"name":"Sasso dei Dardi","ele":"1339","id":457489034}
+{"lat":45.9834425,"lon":9.3597855,"name":"Sas Carlen","ele":"1412","id":457489036}
+{"lat":45.9820453,"lon":9.3646984,"name":"Cimone","ele":"1496","id":457489037}
+{"lat":45.9670379,"lon":9.3180279,"name":"Zucco della Pecora","ele":"735","id":457489040}
+{"lat":45.963378,"lon":9.3295623,"name":"Cima di Monte Cucco","ele":"1432","id":457489041}
+{"lat":45.9692572,"lon":9.3288422,"name":"Sasso del Monte Cucco","ele":"1347","id":457489042}
+{"lat":45.9678719,"lon":9.3438462,"name":"La Conca","ele":"1468","id":457489043}
+{"lat":45.9704459,"lon":9.3497753,"name":"Grassello dei Rosee","ele":"1583","id":457489045}
+{"lat":45.9752801,"lon":9.3840785,"name":"Il Pizzo","ele":"1829","id":457489048}
+{"lat":45.9728468,"lon":9.4034842,"name":"Zucco di Meriggio","ele":"1206","id":457489049}
+{"lat":45.9618713,"lon":9.39894,"name":"Pizzo della Pieve","ele":"2257","id":457489050}
+{"lat":45.9670491,"lon":9.3910291,"name":"Cima del Palone","ele":"2087","id":457489054}
+{"lat":45.977869,"lon":9.3879185,"name":"Pizzo di Strecc","ele":"1500","id":457489055}
+{"lat":45.9799532,"lon":9.386405,"name":"Zucco degli Eghen","ele":"1384","id":457489056}
+{"lat":45.9679233,"lon":9.4001758,"name":"Il Dente","ele":"1705","id":457489058}
+{"lat":45.9382077,"lon":9.3314669,"name":"Zuc di Pez","ele":"883","id":457506025}
+{"lat":45.9386679,"lon":9.3402255,"name":"Zucco di Tura","ele":"1046","id":457506032}
+{"lat":45.9510652,"lon":9.3389001,"name":"Cima dei Pianchini","ele":"1397","id":457506034}
+{"lat":45.9561762,"lon":9.337778,"name":"Monte della Tagliata","ele":"1451","id":457506039}
+{"lat":45.9583293,"lon":9.3372599,"name":"Monte Palagia","ele":"1549","id":457506043}
+{"lat":45.9620873,"lon":9.3449583,"name":"Cima di Eghen","ele":"1557","id":457506044}
+{"lat":45.9218309,"lon":9.3476105,"name":"Zucco di Manavello","ele":"1112","id":457506045}
+{"lat":45.9515967,"lon":9.3506337,"name":"Zucco di Savia","ele":"1073","id":457506047}
+{"lat":45.9521436,"lon":9.3394566,"name":"La Tagliata","ele":"1397","id":457506052}
+{"lat":45.9405874,"lon":9.3401643,"name":"Zucco di Belloeuria","ele":"1153","id":457506062}
+{"lat":45.941578,"lon":9.3392033,"name":"Zucco Morterolo","ele":"1169","id":457506070}
+{"lat":45.9455107,"lon":9.3378533,"name":"Zucco Sileggio","ele":"1373","id":457506085}
+{"lat":45.9617835,"lon":9.3481849,"name":"Porta di Canal Grande","ele":"1536","id":457506093}
+{"lat":45.9526375,"lon":9.3589064,"name":"Zuccello di Costa Fontana","ele":"1376","id":457506101}
+{"lat":45.9562106,"lon":9.3560439,"name":"Zuc del Cornel","ele":"1170","id":457506122}
+{"lat":45.9536307,"lon":9.3801229,"name":"Zucchi dei Grottoni","ele":"2019","id":457506142}
+{"lat":45.9591408,"lon":9.3643782,"name":"Le Colonne","ele":"1465","id":457506150}
+{"lat":45.9562225,"lon":9.3664737,"name":"Zucchello dei Grottoni","ele":"1583","id":457506162}
+{"lat":45.9431255,"lon":9.3669725,"name":"Zuc di Sella","ele":"1448","id":457506172}
+{"lat":45.9595726,"lon":9.370014,"name":"Zucco dei Lares","ele":"1781","id":457506174}
+{"lat":45.9469986,"lon":9.3706568,"name":"Sasso Cavallo","ele":"1923","id":457506175}
+{"lat":45.9469443,"lon":9.3835967,"name":"Sasso dei Carbonari","ele":"2157","id":457506176}
+{"lat":45.947367,"lon":9.3717985,"name":"Il Zuccone","ele":"1884","id":457506178}
+{"lat":45.9427378,"lon":9.3901868,"name":"Zucco dei Chignoli","ele":"2163","id":457506179}
+{"lat":45.9614613,"lon":9.3759421,"name":"Cima di Piancaformia","ele":"2106","id":457506180}
+{"lat":45.9332104,"lon":9.3745078,"name":"Torrioni di Parascioeul Alti","ele":"1321","id":457506181}
+{"lat":45.9307858,"lon":9.3670553,"name":"Il Zuccone","ele":"1110","id":457506182}
+{"lat":45.9394474,"lon":9.3603949,"name":"Zucco Pissavacca","ele":"1241","id":457506183}
+{"lat":45.9196358,"lon":9.3780836,"name":"Torrione Costanza","ele":"1723","id":457506184}
+{"lat":45.934955,"lon":9.3726328,"name":"Torrioni di Parascioeul Bassi","ele":"1286","id":457506185}
+{"lat":45.9384859,"lon":9.3751116,"name":"L'Aser","ele":"1349","id":457506186}
+{"lat":45.9210573,"lon":9.3638308,"name":"Zucco Pertusio","ele":"1671","id":457506187}
+{"lat":45.9217901,"lon":9.3820745,"name":"Piramide Casati","ele":"1916","id":457506188}
+{"lat":45.9189178,"lon":9.3584596,"name":"Zucco di Portorella","ele":"1465","id":457506189}
+{"lat":45.9244461,"lon":9.3709275,"name":"Le Colonne di Pescee","ele":"1588","id":457506191}
+{"lat":45.9221459,"lon":9.3833279,"name":"Colle Valsecchi","ele":"1927","id":457506193}
+{"lat":45.9189889,"lon":9.3881087,"name":"Guglia Angelina","ele":"2046","id":457506195}
+{"lat":45.9342421,"lon":9.3847433,"name":"Zucco di Larenson","ele":"1796","id":457506197}
+{"lat":45.9188101,"lon":9.3673065,"name":"Monte Basso","ele":"1535","id":457506199}
+{"lat":45.9252767,"lon":9.3886239,"name":"Zucco di Campione","ele":"2045","id":457506200}
+{"lat":45.9225842,"lon":9.3920552,"name":"Monte Campione","ele":"2149","id":457506201}
+{"lat":45.9301491,"lon":9.3841103,"name":"Parascioeulin","ele":"1608","id":457506202}
+{"lat":45.9219664,"lon":9.3907645,"name":"Grigna Meridionale","ele":"2181","id":457506203}
+{"lat":45.9208644,"lon":9.3951155,"name":"Torrione Magnaghi Centrale","ele":"2045","id":457506206}
+{"lat":45.91072,"lon":9.35157,"name":"Zucco della Rocca","ele":"846","id":457647534}
+{"lat":45.8982765,"lon":9.3440592,"name":"Monte di Borbino","ele":"461","id":457647543}
+{"lat":45.8805342,"lon":9.3761527,"name":"I Tecett","ele":"600","id":457647550}
+{"lat":45.8840784,"lon":9.3725456,"name":"Peltrera","ele":"640","id":457647569}
+{"lat":45.9032444,"lon":9.4031344,"name":"Corno del Nibbio Meridionale","ele":"1372","id":457647593}
+{"lat":45.8761226,"lon":9.3944219,"name":"Corno Medale","ele":"1029","id":457647607}
+{"lat":45.8801134,"lon":9.3889138,"name":"Vetta San Vittore","ele":"1245","id":457647618}
+{"lat":45.880911,"lon":9.3977226,"name":"Dente del Coltignone","ele":"955","id":457647628}
+{"lat":45.8823929,"lon":9.3881952,"name":"Corno Regismondo","ele":"1288.7","id":457647637}
+{"lat":45.8837743,"lon":9.3889547,"name":"Il Coltignoncino","ele":"1399","id":457647654}
+{"lat":45.8844156,"lon":9.3891418,"name":"Torrione Diaz","ele":"1419.0","id":457647667}
+{"lat":45.8704993,"lon":9.3804523,"name":"I Pizzetti","ele":"427","id":457647680}
+{"lat":45.8857732,"lon":9.3889236,"name":"Monte Coltignone","ele":"1471.2","id":457647690}
+{"lat":45.8892224,"lon":9.3886556,"name":"Cima di Calolden","ele":"1455.0","id":457647700}
+{"lat":45.8489433,"lon":9.318477,"name":"Monte Prasanto","ele":"1245","id":457647708}
+{"lat":45.8554596,"lon":9.3379904,"name":"Corno Rat","ele":"924","id":457647715}
+{"lat":45.8604719,"lon":9.3509019,"name":"La Forcellina","ele":"717","id":457647729}
+{"lat":45.8426799,"lon":9.3290784,"name":"Corno Birone","ele":"1116","id":457647760}
+{"lat":45.8625381,"lon":9.3231977,"name":"Corno di Canzo Occidentale","ele":"1373","id":457647794}
+{"lat":45.883586,"lon":9.3152053,"name":"Sasso della Cassina","ele":"647","id":457647829}
+{"lat":45.8307881,"lon":9.3802137,"name":"Monte Barro","ele":"922","id":457647840}
+{"lat":45.7861358,"lon":9.3873279,"name":"Monte Regina","ele":"820","id":457647852}
+{"lat":45.8259199,"lon":9.3841593,"name":"Monte San Michele","ele":"760","id":457648413}
+{"lat":45.8745637,"lon":9.3872977,"name":"Monte San Martino","ele":"1046","id":457648434}
+{"lat":45.866588,"lon":9.339581,"name":"Monte Moregallo","ele":"1276","id":457648459}
+{"lat":45.9177102,"lon":9.3845804,"name":"Il Fungo","ele":"1719","id":457648469}
+{"lat":45.8621964,"lon":9.3280731,"name":"Corno di Canzo Centrale","ele":"1368","id":457648480}
+{"lat":45.7887307,"lon":9.3322915,"name":"Poggio Stolegarda","ele":"300","id":457648496}
+{"lat":45.9089867,"lon":9.4225764,"name":"Il Dito","ele":"1105","id":457711285}
+{"lat":45.9090204,"lon":9.4211446,"name":"Zucco di Teral","ele":"1178","id":457711288}
+{"lat":45.9092912,"lon":9.4253987,"name":"Costa di Preson","ele":"1009","id":457711292}
+{"lat":45.9196805,"lon":9.4225763,"name":"Zucco di Campei","ele":"1345","id":457711299}
+{"lat":45.9027242,"lon":9.4483639,"name":"Zucco di Desio","ele":"1651","id":457711302}
+{"lat":45.9714979,"lon":9.4976871,"name":"Monte Chiavello","ele":"1787","id":457711314}
+{"lat":45.880434,"lon":9.4228189,"name":"Monte Melma","ele":"914","id":457711323}
+{"lat":45.8672593,"lon":9.4616655,"name":"Pizzo Monterone","ele":"1757","id":457711327}
+{"lat":45.9909534,"lon":9.4562645,"name":"La Forcella","ele":"1362","id":457711334}
+{"lat":45.7902669,"lon":9.5061962,"name":"Il Pizzo","ele":"1400","id":457711361}
+{"lat":45.8097319,"lon":9.4878654,"name":"Monte Picchetto","ele":"1310","id":457711364}
+{"lat":45.9532733,"lon":9.512647,"name":"Zucco di Pesciola","ele":"2094","id":457711384}
+{"lat":45.9850957,"lon":9.5102713,"name":"Cima delle Forcelle","ele":"1646","id":457711392}
+{"lat":45.9582931,"lon":9.5145488,"name":"Zucco Barbesino","ele":"2154","id":457711396}
+{"lat":45.9545822,"lon":9.4917646,"name":"Zucco Orscellera","ele":"1858","id":457711401}
+{"lat":45.9598191,"lon":9.4748993,"name":"Corna di Bobbio","ele":"1441","id":457711406}
+{"lat":45.9602701,"lon":9.4601859,"name":"Zucco Angelone","ele":"1067","id":457711410}
+{"lat":45.7832001,"lon":9.4681185,"name":"Corna Martinella","ele":"754","id":457711411}
+{"lat":45.9642645,"lon":9.4918742,"name":"Cima Zurbo","ele":"1735","id":457711419}
+{"lat":45.7883203,"lon":9.4749077,"name":"Monte Brughetto","ele":"975","id":457711422}
+{"lat":45.9097318,"lon":9.479173,"name":"Cima di Ferrera","ele":"1387","id":457711439}
+{"lat":45.798448,"lon":9.4940996,"name":"Monte Tesoro","ele":"1431","id":457711444}
+{"lat":45.9001318,"lon":9.469275,"name":"Cima di Musciada","ele":"1456","id":457711449}
+{"lat":45.8124442,"lon":9.4611419,"name":"Monte Spedone","ele":"1110","id":457711462}
+{"lat":45.9035065,"lon":9.473709,"name":"Cime di Redondello","ele":"1370","id":457711466}
+{"lat":45.8310135,"lon":9.4472537,"name":"Monte Forcellino","ele":"1003","id":457711471}
+{"lat":45.8245764,"lon":9.4476928,"name":"Monte Pizzetto","ele":"869","id":457711477}
+{"lat":45.8308841,"lon":9.4726295,"name":"Corna Camozzera","ele":"1452","id":457711479}
+{"lat":45.9878312,"lon":9.471722,"name":"Zucco di Cornisella","ele":"1480","id":457711481}
+{"lat":45.8229969,"lon":9.4348808,"name":"Monte Gavazzo","ele":"916","id":457711482}
+{"lat":45.9945258,"lon":9.4944042,"name":"Monte Foppabona","ele":"2084","id":457711484}
+{"lat":45.9782843,"lon":9.4966136,"name":"Corneasso","ele":"1751","id":457711485}
+{"lat":45.9890384,"lon":9.4999622,"name":"Zucco del Corvo","ele":"1976","id":457711491}
+{"lat":45.991929,"lon":9.496531,"name":"Cima del Corvo","ele":"2062","id":457711495}
+{"lat":45.8292988,"lon":9.4366404,"name":"Corno di Grao","ele":"1041","id":457711497}
+{"lat":45.850179,"lon":9.4604045,"name":"Cima del Fo","ele":"1302","id":457711504}
+{"lat":45.8182379,"lon":9.436657,"name":"Monte Mudarga","ele":"912","id":457711517}
+{"lat":45.8601624,"lon":9.466877,"name":"Punta Stoppani","ele":"1849","id":457711534}
+{"lat":45.8539683,"lon":9.4565286,"name":"La Cornesella","ele":"1204","id":457711540}
+{"lat":45.8454628,"lon":9.4503084,"name":"Sambuco","ele":"1226","id":457711555}
+{"lat":45.8392408,"lon":9.4400797,"name":"Monte Magnodeno","ele":"1231","id":457711561}
+{"lat":45.8726621,"lon":9.4720165,"name":"Zuc Pelà","ele":"1411","id":457711567}
+{"lat":45.8801369,"lon":9.4795734,"name":"Il Pizzo","ele":"1285","id":457711571}
+{"lat":45.9191081,"lon":9.4944126,"name":"Zucco della Croce","ele":"1188","id":457711578}
+{"lat":45.9079184,"lon":9.5025209,"name":"Zucco della Mersa","ele":"1460","id":457711582}
+{"lat":45.9307131,"lon":9.4370113,"name":"Costa Riale","ele":"1078","id":457711596}
+{"lat":45.927152,"lon":9.4228021,"name":"Costa dei Butteri","ele":"1116","id":457711598}
+{"lat":45.7801688,"lon":9.1172603,"name":"Monte Croce","ele":"520","id":461690538}
+{"lat":45.7019286,"lon":9.4678029,"name":"Monte Giglio","ele":"360","id":461690539}
+{"lat":45.7627385,"lon":9.5118633,"name":"Col Pedrino","ele":"832","id":461690540}
+{"lat":45.7251853,"lon":9.4681773,"name":"Monte dei Frati","ele":"580","id":461690541}
+{"lat":45.7696691,"lon":9.4675513,"name":"Monte Santa Margherita","ele":"629","id":461690547}
+{"lat":45.6918667,"lon":9.4478938,"name":"Monte Robbio","ele":"370","id":461690552}
+{"lat":45.771921,"lon":9.3787514,"name":"Monte Crocione","ele":"878","id":461690557}
+{"lat":45.7502129,"lon":9.4082525,"name":"Monte Crosaccia","ele":"730","id":461690561}
+{"lat":45.7446177,"lon":9.5134585,"name":"Monte Ghignoletti","ele":"567","id":461690565}
+{"lat":45.7726473,"lon":9.4998755,"name":"Pizzo Pec","ele":"1005","id":461690570}
+{"lat":45.033571,"lon":9.2696381,"name":"Monte Azzolo","ele":"323","id":461715280}
+{"lat":45.0435606,"lon":9.2503295,"name":"Monte Spina","ele":"240","id":461715281}
+{"lat":45.0590647,"lon":9.2689443,"name":"Monte Oriolo","ele":"241","id":461715293}
+{"lat":45.0227276,"lon":9.2037768,"name":"Monte Zavo","ele":"346","id":461715300}
+{"lat":45.0251307,"lon":9.2303135,"name":"Monte Barosine","ele":"340","id":461715310}
+{"lat":45.0334717,"lon":9.2161552,"name":"Monte Castello","ele":"226","id":461715316}
+{"lat":45.4905858,"lon":9.1346218,"name":"Monte Stella","ele":"180","id":461715328}
+{"lat":45.9551507,"lon":9.802419,"name":"Corno Branchino","ele":"2029","id":469428105}
+{"lat":45.9558297,"lon":9.5829516,"name":"Corna del Colonnello","ele":"1735","id":491536032}
+{"lat":45.9296135,"lon":9.6160546,"name":"Monte Venturosa","ele":"1999","id":491536050}
+{"lat":45.9511281,"lon":9.5382522,"name":"Cima di Piazzo","ele":"2057","id":491536051}
+{"lat":45.846548,"lon":9.5576476,"name":"Monte Castello","ele":"1218","id":491536052}
+{"lat":45.9161502,"lon":9.5170311,"name":"Zucco di Maesimo","ele":"1665","id":491536053}
+{"lat":45.9546145,"lon":9.5167245,"name":"Zuccone dei Campelli","ele":"2159","id":491536054}
+{"lat":45.8702623,"lon":9.5237961,"name":"Zuc De Valmana","ele":"1546","id":491536055}
+{"lat":45.8000136,"lon":9.5876536,"name":"Colle Moscarino","ele":"894","id":491536056}
+{"lat":45.8174829,"lon":9.5807387,"name":"Forcella di Berbenno","ele":"850","id":491536057}
+{"lat":45.8364262,"lon":9.614748,"name":"Corna Moltore","ele":"1192","id":491536060}
+{"lat":45.8412587,"lon":9.6123836,"name":"Corna Ca' Moscera","ele":"1329","id":491536107}
+{"lat":45.9014072,"lon":9.5442155,"name":"Corno dell'Acqua","ele":"1186","id":491536115}
+{"lat":45.9465788,"lon":9.5801184,"name":"Pizzo Baciamorti","ele":"2006","id":491536117}
+{"lat":45.9400645,"lon":9.5471309,"name":"Monte Sodadura","ele":"2010","id":491536136}
+{"lat":45.9498795,"lon":9.5551871,"name":"Monte Cantardo","ele":"1886","id":491536138}
+{"lat":45.7948832,"lon":9.6023449,"name":"Corna Marcia","ele":"1033","id":491536139}
+{"lat":45.7959283,"lon":9.6139848,"name":"Monte Ubiale","ele":"972","id":491536140}
+{"lat":45.8586521,"lon":9.5477342,"name":"Zucco di Pralongone","ele":"1500","id":491536141}
+{"lat":45.8660059,"lon":9.5381756,"name":"I Canti","ele":"1563","id":491536151}
+{"lat":45.9064576,"lon":9.539216,"name":"Corno Zuccone","ele":"1458","id":491536153}
+{"lat":45.9025105,"lon":9.5894665,"name":"Corna Picciola","ele":"1303","id":491536156}
+{"lat":45.9647292,"lon":9.5459982,"name":"Legni Marci","ele":"1478","id":491536158}
+{"lat":45.8798987,"lon":9.6070841,"name":"La Collina","ele":"1256","id":491536159}
+{"lat":45.9654925,"lon":9.517412,"name":"Corno Grande","ele":"2087","id":491536164}
+{"lat":45.8806624,"lon":9.5919248,"name":"Cornello Pigazzo","ele":"910","id":491536166}
+{"lat":45.9768254,"lon":9.5715679,"name":"Il Cornone","ele":"1285","id":491536169}
+{"lat":45.9572661,"lon":9.5369224,"name":"La Cornetta","ele":"2053","id":491536182}
+{"lat":45.9079457,"lon":9.5904217,"name":"Corna Bianca","ele":"1384","id":491536186}
+{"lat":45.9866696,"lon":9.5658361,"name":"Pizzo del Rocco","ele":"1424","id":491536193}
+{"lat":45.8977088,"lon":9.5893703,"name":"Corna dei Porci","ele":"1316","id":491536195}
+{"lat":45.9861233,"lon":9.6151362,"name":"La Colla","ele":"945","id":491536212}
+{"lat":45.9965279,"lon":9.550084,"name":"Zucco della Stremereggia","ele":"1659","id":491536232}
+{"lat":45.9797818,"lon":9.609176,"name":"Monte Disner","ele":"1342","id":491536233}
+{"lat":45.9894674,"lon":9.5429494,"name":"Monte Pigolotta","ele":"1503","id":491536234}
+{"lat":45.869347,"lon":9.6159773,"name":"Pizzo Grande","ele":"1574","id":491536236}
+{"lat":45.8759038,"lon":9.6135944,"name":"Zuccone La Torre","ele":"1298","id":491536239}
+{"lat":45.9182783,"lon":9.5600309,"name":"Corno del Bruco","ele":"1569","id":491536245}
+{"lat":45.8214947,"lon":9.5638635,"name":"Colle San Pietro","ele":"933","id":491536257}
+{"lat":45.9871642,"lon":9.5925095,"name":"Pizzo di Cusio","ele":"1465","id":491536263}
+{"lat":45.8491788,"lon":9.6166178,"name":"Monte Foldone","ele":"1497","id":491536273}
+{"lat":45.8584095,"lon":9.610611,"name":"Monte Sornadello","ele":"1580","id":491536288}
+{"lat":45.8444412,"lon":9.5908732,"name":"Il Pizzo","ele":"845","id":491536291}
+{"lat":45.8958638,"lon":9.7136346,"name":"Monte Vaccaregio","ele":"1474","id":491575196}
+{"lat":45.8196976,"lon":9.6908835,"name":"Pizzo di Spino","ele":"958","id":491575201}
+{"lat":45.8381365,"lon":9.7039837,"name":"Pizzo Rabbioso","ele":"1151","id":491575220}
+{"lat":45.8282432,"lon":9.6875984,"name":"Pizzo Colvera","ele":"801","id":491575239}
+{"lat":45.932267,"lon":9.7206358,"name":"Monte Valbona","ele":"1822","id":491575245}
+{"lat":45.8095125,"lon":9.6726601,"name":"Il Cornone","ele":"602","id":491575254}
+{"lat":45.8113099,"lon":9.6646312,"name":"Il Pizzo","ele":"921","id":491575264}
+{"lat":45.9264993,"lon":9.6981643,"name":"Monte Ortighera","ele":"1632","id":491575287}
+{"lat":45.8166474,"lon":9.6480746,"name":"Zuccone dell'Arco","ele":"1227","id":491575296}
+{"lat":45.9509681,"lon":9.6314349,"name":"Monte Saetta","ele":"1597","id":491575322}
+{"lat":45.8573191,"lon":9.703125,"name":"Monte Gioco","ele":"1366","id":491575329}
+{"lat":45.8208986,"lon":9.6275027,"name":"Truca","ele":"991","id":491575335}
+{"lat":45.8621909,"lon":9.7107019,"name":"Il Zucchin","ele":"1206","id":491575342}
+{"lat":45.829239,"lon":9.6251063,"name":"Pizzo Cerro","ele":"1285","id":491575348}
+{"lat":45.8416227,"lon":9.6188101,"name":"Castello Regina","ele":"1424","id":491575363}
+{"lat":45.8212598,"lon":9.6560991,"name":"Monte Zucco","ele":"1232","id":491575372}
+{"lat":45.8378497,"lon":9.6438845,"name":"Pizzo del Sole","ele":"1032","id":491575381}
+{"lat":45.819822,"lon":9.6438388,"name":"Corno dell'Arco","ele":"1166","id":491575386}
+{"lat":45.9989454,"lon":9.6511767,"name":"Monte Faino","ele":"1564","id":491575390}
+{"lat":45.8341384,"lon":9.6961855,"name":"Corna Maria","ele":"1057","id":491575394}
+{"lat":45.9597882,"lon":9.6823003,"name":"Il Culmine","ele":"1216","id":491575398}
+{"lat":45.8338524,"lon":9.639184,"name":"Pizzoli","ele":"1014","id":491575403}
+{"lat":45.8305845,"lon":9.6964135,"name":"Corna Camozzera","ele":"1047","id":491575407}
+{"lat":45.8544138,"lon":9.6416963,"name":"Monte Molinasco","ele":"1176","id":491575408}
+{"lat":45.8359752,"lon":9.6919623,"name":"Corna Pedezzina","ele":"962","id":491575411}
+{"lat":45.8279095,"lon":9.6413444,"name":"Forcella","ele":"1112","id":491575419}
+{"lat":45.8863935,"lon":9.7120599,"name":"Monte Pedrozzo","ele":"1265","id":491575424}
+{"lat":45.9144587,"lon":9.617806,"name":"Monte Cancervo","ele":"1835","id":491575430}
+{"lat":45.9428197,"lon":9.6504373,"name":"Corna Grossa","ele":"1300","id":491575436}
+{"lat":45.9656373,"lon":9.6794634,"name":"Monte del Sole","ele":"1523","id":491575443}
+{"lat":45.9826915,"lon":9.7179081,"name":"Corna dei Bagoli","ele":"1800","id":491575447}
+{"lat":45.924068,"lon":9.6946855,"name":"Monte Medile","ele":"1589","id":491575456}
+{"lat":45.9833469,"lon":9.648216,"name":"La Bassa","ele":"1120","id":491575470}
+{"lat":45.8210358,"lon":9.7610477,"name":"Pizzo Cornelli","ele":"1101","id":492483817}
+{"lat":45.9762632,"lon":9.7904293,"name":"Monte Pietra Quadra","ele":"2356","id":492483828}
+{"lat":45.8275553,"lon":9.8071032,"name":"Monte Ceresola","ele":"1193","id":492483864}
+{"lat":45.7965114,"lon":9.7248072,"name":"Cima del Fop","ele":"1065","id":492483873}
+{"lat":45.8314875,"lon":9.7657967,"name":"Monte Suchello","ele":"1541","id":492483884}
+{"lat":45.7856488,"lon":9.8103217,"name":"Col del Bates","ele":"899","id":492483901}
+{"lat":45.9828893,"lon":9.7925931,"name":"Monte del Tonale","ele":"2425","id":492483915}
+{"lat":45.7983341,"lon":9.7820616,"name":"Monte Poieto","ele":"1360","id":492483921}
+{"lat":45.7939052,"lon":9.7785657,"name":"Monte Cornagera","ele":"1311","id":492483952}
+{"lat":45.8720894,"lon":9.7693379,"name":"Cima della Spada","ele":"1952","id":492483962}
+{"lat":45.7840044,"lon":9.8010226,"name":"Monte Rena","ele":"1143","id":492483990}
+{"lat":45.9424857,"lon":9.8074711,"name":"Corna Piana","ele":"2302","id":492484035}
+{"lat":45.9978957,"lon":9.7434762,"name":"Il Pizzo","id":492484063}
+{"lat":45.8957458,"lon":9.7248024,"name":"Monte Castello","id":492484118}
+{"lat":45.9922799,"lon":9.7851427,"name":"Pizzo dell'Orto","ele":"2271","id":492484147}
+{"lat":45.9357207,"lon":9.7661801,"name":"Il Pizzo","ele":"2274","id":492484214}
+{"lat":45.9709676,"lon":9.8145932,"name":"Monte delle Galline","ele":"2131","id":492484232}
+{"lat":45.929472,"lon":9.7597571,"name":"Cima di Menna","ele":"2300","id":492484259}
+{"lat":45.8098321,"lon":9.802183,"name":"Monte Cedrina","ele":"1124","id":492484312}
+{"lat":45.939135,"lon":9.7813019,"name":"Monte Vetro","ele":"2054","id":492484352}
+{"lat":45.9429334,"lon":9.7621135,"name":"Croce di Pizzo","ele":"2040","id":492484378}
+{"lat":45.8740969,"lon":9.7856445,"name":"Col dei Brassamonti","ele":"1755","id":492484399}
+{"lat":45.7909168,"lon":9.7608945,"name":"Colle Botto","ele":"1025","id":492484414}
+{"lat":45.7849559,"lon":9.7239239,"name":"Corna Bianca","ele":"1228","id":492484472}
+{"lat":45.9078659,"lon":9.8223224,"name":"Cima di Grem","ele":"2050","id":492484484}
+{"lat":45.9613529,"lon":9.8628286,"name":"Monte Zulino","ele":"1757","id":492508832}
+{"lat":45.8095504,"lon":9.8413323,"name":"Monte Cloca","ele":"584","id":492508854}
+{"lat":45.9652568,"lon":9.8964318,"name":"Cima di Bani","id":492508873}
+{"lat":45.8396702,"lon":9.8290557,"name":"Cima di Cavlera","ele":"1320","id":492508899}
+{"lat":45.9928561,"lon":9.8511228,"name":"Monte Pradella","ele":"2626","id":492508917}
+{"lat":45.9763396,"lon":9.8572688,"name":"Monte Crapele","ele":"2125","id":492508944}
+{"lat":45.9605966,"lon":9.8699875,"name":"Monte di Zanetti","ele":"1712","id":492509026}
+{"lat":45.7858216,"lon":9.8465213,"name":"Monte Bue","ele":"707","id":492509041}
+{"lat":45.8486651,"lon":9.8554478,"name":"Il Colle","ele":"1009","id":492509056}
+{"lat":45.8476185,"lon":9.9239708,"name":"Pizzo Formico","ele":"1636","id":492509070}
+{"lat":45.8351981,"lon":9.8887649,"name":"Pizzo di Casnigo","ele":"1113","id":492509083}
+{"lat":45.9431639,"lon":9.8897502,"name":"Corno Negro","ele":"1289","id":492509108}
+{"lat":45.9861802,"lon":9.8586185,"name":"Pizzo Salina","ele":"2490","id":492509123}
+{"lat":45.7844418,"lon":9.8548963,"name":"Col Bec","ele":"679","id":492509150}
+{"lat":45.9909872,"lon":9.9000355,"name":"Monte della Croce","ele":"1666","id":492509161}
+{"lat":45.9175348,"lon":9.8944546,"name":"Cima Vaccaro","ele":"1958","id":492509172}
+{"lat":45.8228525,"lon":9.8649161,"name":"Colle Petta","ele":"635","id":492509180}
+{"lat":45.9059949,"lon":9.8364316,"name":"Monte Golla","ele":"1993","id":492509192}
+{"lat":45.9333306,"lon":9.8639476,"name":"Cima del Fop","ele":"2316","id":492509209}
+{"lat":45.793654,"lon":9.8644996,"name":"Monte Beio","ele":"699","id":492509230}
+{"lat":45.9400139,"lon":9.8555678,"name":"Pizzo del Verem","ele":"1619","id":492509266}
+{"lat":45.9700712,"lon":9.8335138,"name":"Monte Campagano","ele":"2053","id":492509300}
+{"lat":45.8596292,"lon":9.8956636,"name":"Corno Falò","ele":"1147","id":492509315}
+{"lat":45.8525397,"lon":9.8999901,"name":"Corno Guazza","ele":"1270","id":492509339}
+{"lat":45.9951792,"lon":9.8412359,"name":"Monte Aviasco","ele":"2408","id":492509373}
+{"lat":45.7880215,"lon":9.9180724,"name":"Monte Pler","ele":"1051","id":492509397}
+{"lat":45.8814881,"lon":9.8464954,"name":"Cime di Belloro","ele":"1383","id":492509412}
+{"lat":45.930904,"lon":9.8418058,"name":"Cima Valmora","ele":"2198","id":492509444}
+{"lat":45.9311259,"lon":9.8822181,"name":"Monte Secco","id":492509450}
+{"lat":45.8491747,"lon":9.8660573,"name":"Pizzo Frol","ele":"1055","id":492509457}
+{"lat":45.7830703,"lon":9.8767239,"name":"Monte Cornello","ele":"774","id":492509464}
+{"lat":45.9281695,"lon":9.8436213,"name":"Cima di Leten","ele":"2093","id":492509475}
+{"lat":45.907251,"lon":9.875399,"name":"Scala della Forcella","id":492509484}
+{"lat":45.9017902,"lon":9.9570053,"name":"Cima Crapet","ele":"1146","id":492596409}
+{"lat":45.8970833,"lon":9.9512493,"name":"Monte Simer","ele":"961","id":492596416}
+{"lat":45.8717706,"lon":9.9427763,"name":"Monte Beur","ele":"860","id":492596422}
+{"lat":45.9102232,"lon":9.9944548,"name":"Castello","ele":"1271","id":492596427}
+{"lat":45.8158051,"lon":9.9758313,"name":"Monte Palandone","ele":"1363","id":492596467}
+{"lat":45.9601182,"lon":9.9890909,"name":"Cima di Timogno","ele":"2096","id":492596507}
+{"lat":45.9555064,"lon":9.9615763,"name":"Monte Corru","ele":"1818","id":492596533}
+{"lat":45.930857,"lon":9.9586023,"name":"Cima Ba","ele":"1527","id":492596563}
+{"lat":45.955251,"lon":9.9772195,"name":"Cugno","ele":"1717","id":492596577}
+{"lat":45.9239643,"lon":9.9416482,"name":"Monte Fortino","id":492596593}
+{"lat":45.8911319,"lon":9.930096,"name":"Monte Nè","ele":"844","id":492596622}
+{"lat":45.8413659,"lon":9.9569793,"name":"Monte Fogarolo","ele":"1526","id":492596630}
+{"lat":45.955688,"lon":9.9484425,"name":"Monte Redondo","ele":"1796","id":492596639}
+{"lat":45.8007509,"lon":9.9286653,"name":"Monte Pizzetto","ele":"1208","id":492596650}
+{"lat":45.9756863,"lon":9.987808,"name":"Il Collino","ele":"1793","id":492596668}
+{"lat":45.9804668,"lon":9.9665967,"name":"Costa Magrera","ele":"1625","id":492596684}
+{"lat":45.8209141,"lon":9.9792491,"name":"Monte di Sovere","ele":"1281","id":492596691}
+{"lat":45.965587,"lon":9.992843,"name":"Cima Benfit","ele":"2170","id":492596699}
+{"lat":45.8080595,"lon":9.9543053,"name":"Monte Sparavera","ele":"1369","id":492596719}
+{"lat":45.9080084,"lon":9.9683487,"name":"Cima Blum","ele":"1293","id":492596737}
+{"lat":45.9716397,"lon":9.9894817,"name":"Monte Avert","ele":"2084","id":492596772}
+{"lat":45.8114187,"lon":9.9886932,"name":"La Costa","ele":"1265","id":492596786}
+{"lat":45.7546442,"lon":9.7279079,"name":"Pizzo di Lonno","ele":"782","id":494601149}
+{"lat":45.7497113,"lon":9.7278557,"name":"Monte Ganda","ele":"698","id":494601150}
+{"lat":45.7764547,"lon":9.5317185,"name":"Monte Linzone","ele":"1392","id":495722484}
+{"lat":45.6969481,"lon":9.8000813,"name":"Monti di Argon","ele":"482","id":513906928}
+{"lat":45.6893925,"lon":9.7834071,"name":"Monte San Giorgio","ele":"433","id":513906932}
+{"lat":45.6728932,"lon":9.7819235,"name":"Colle Tomenone","ele":"370","id":513906933}
+{"lat":45.7411546,"lon":9.5407462,"name":"Picco","ele":"441","id":513906934}
+{"lat":45.7403471,"lon":9.5454441,"name":"La Vena","ele":"437","id":513906936}
+{"lat":45.7429404,"lon":9.5318577,"name":"Picco Alto","ele":"524","id":513906937}
+{"lat":45.743023,"lon":9.522746,"name":"Monte Valmora","ele":"520","id":513906939}
+{"lat":45.7488429,"lon":9.535144,"name":"Monte Brocchione","ele":"508","id":513906943}
+{"lat":45.767303,"lon":9.5262561,"name":"Monte Piacca","ele":"1065","id":513906945}
+{"lat":45.7252732,"lon":9.6235788,"name":"Colle Roccolone","ele":"359","id":513906948}
+{"lat":45.7749191,"lon":9.6193602,"name":"Monte Tassera","ele":"632","id":513906949}
+{"lat":45.7718698,"lon":9.6500024,"name":"Corna dell'Uomo","ele":"972","id":513906952}
+{"lat":45.7755184,"lon":9.5933935,"name":"Monte Ubione","ele":"895","id":513906955}
+{"lat":45.7611918,"lon":9.5832086,"name":"Monte Castra","ele":"518","id":513906958}
+{"lat":45.7565147,"lon":9.638944,"name":"Monte dei Giubilini","ele":"596","id":513906960}
+{"lat":45.759222,"lon":9.6160398,"name":"Monte Bastia","ele":"584","id":513906963}
+{"lat":45.7607618,"lon":9.658811,"name":"Monte Lumbric","ele":"829","id":513906965}
+{"lat":45.7145475,"lon":9.7403011,"name":"Monte Bastia","ele":"424","id":513906966}
+{"lat":45.709832,"lon":9.7535379,"name":"Montecchio","ele":"350","id":513906968}
+{"lat":45.7454746,"lon":9.7047785,"name":"Monte Zuccone","ele":"670","id":513906970}
+{"lat":45.7169306,"lon":9.7460499,"name":"Monte del Roccolo","ele":"463","id":513906971}
+{"lat":45.7726211,"lon":9.7413848,"name":"Cima Rasgada","ele":"910","id":513906973}
+{"lat":45.7757137,"lon":9.7335781,"name":"Monte Podona","ele":"1220","id":513906975}
+{"lat":45.7616019,"lon":9.676055,"name":"Campanua","ele":"902","id":513906976}
+{"lat":45.7524676,"lon":9.6839289,"name":"Monte Solino","ele":"838","id":513906978}
+{"lat":45.7569994,"lon":9.7450335,"name":"Monte Valtrusa","ele":"894","id":513906989}
+{"lat":45.7492463,"lon":9.7442087,"name":"Colle Bastia","ele":"595","id":513907001}
+{"lat":45.7626613,"lon":9.7345304,"name":"I Corni","ele":"928","id":513907013}
+{"lat":45.7652513,"lon":9.6971214,"name":"Monte del Cavallo","ele":"980","id":513907032}
+{"lat":45.7591073,"lon":9.7049197,"name":"Monte Colletto","ele":"810","id":513907042}
+{"lat":45.7558828,"lon":9.6734095,"name":"Monte Luvrida","ele":"827","id":513907054}
+{"lat":45.7097535,"lon":9.7958279,"name":"Il Dosso","ele":"464","id":513907069}
+{"lat":45.7266995,"lon":9.8116242,"name":"Monte Bastia","ele":"810","id":513907098}
+{"lat":45.7367759,"lon":9.8185167,"name":"Monte Misma","ele":"1161","id":513907117}
+{"lat":45.7281762,"lon":9.8426005,"name":"Cima Corna Clima","ele":"865","id":513907133}
+{"lat":45.7357094,"lon":9.8371402,"name":"Pizzo","ele":"914","id":513907153}
+{"lat":45.7757888,"lon":9.7592511,"name":"Monte Purito","ele":"1136","id":513907186}
+{"lat":45.7789491,"lon":9.7731671,"name":"Monte Nigrono","ele":"899","id":513907203}
+{"lat":45.5821949,"lon":9.9677696,"name":"Monte Orfano","ele":"402","id":513907211}
+{"lat":45.665692,"lon":9.881606,"name":"Monte del Castello","ele":"624","id":513907226}
+{"lat":45.6693599,"lon":9.882607,"name":"Colle Lucetto","ele":"526","id":513907238}
+{"lat":45.6659434,"lon":9.8541458,"name":"Monte Santo Stefano","ele":"547","id":513907247}
+{"lat":45.6707696,"lon":9.8907354,"name":"Monte dell'Ingannolo","ele":"561","id":513907273}
+{"lat":45.6925682,"lon":9.8867997,"name":"Monte Sega","ele":"710","id":513907299}
+{"lat":45.700605,"lon":9.9187755,"name":"Colle Zuccli","ele":"570","id":513907316}
+{"lat":45.6427399,"lon":9.976247,"name":"Monte Alto","ele":"650","id":513907332}
+{"lat":45.6364508,"lon":9.9859195,"name":"Monte Castelli","ele":"353","id":513907347}
+{"lat":45.6550686,"lon":9.9777191,"name":"Corno Pendita","ele":"500","id":513907349}
+{"lat":45.6478667,"lon":9.9537852,"name":"Monte Sant'Onofrio","ele":"462","id":513907351}
+{"lat":45.701505,"lon":9.9943038,"name":"La Rolla","ele":"988","id":513907360}
+{"lat":45.6812901,"lon":9.9741036,"name":"Monte Faeto","ele":"600","id":513907362}
+{"lat":45.6924764,"lon":9.995549,"name":"Corno Buco","ele":"966","id":513907364}
+{"lat":45.68133,"lon":9.9337824,"name":"Monte Dratto","ele":"540","id":513907369}
+{"lat":45.6939986,"lon":9.9603424,"name":"Monte Canzano","ele":"591","id":513907371}
+{"lat":45.7216815,"lon":9.8566221,"name":"Pizzo Casgnola","ele":"792","id":513907375}
+{"lat":45.7352772,"lon":9.8708675,"name":"Monte Pranza","ele":"1095","id":513907376}
+{"lat":45.7280985,"lon":9.9280972,"name":"Colle Zuccone","ele":"720","id":513907438}
+{"lat":45.71122,"lon":9.8485576,"name":"Monte Sasser","ele":"488","id":513907453}
+{"lat":45.7072629,"lon":9.895304,"name":"Colle La Guina","ele":"653","id":513907454}
+{"lat":45.7150226,"lon":9.8945847,"name":"Pizzo di Quaglia","ele":"470","id":513907456}
+{"lat":45.7202647,"lon":9.912305,"name":"Monte Fossana","ele":"594","id":513907457}
+{"lat":45.7032314,"lon":9.8972519,"name":"Punta Campo Alto","ele":"674","id":513907462}
+{"lat":45.7036481,"lon":9.9033356,"name":"Pizzo Mosca","ele":"692","id":513907464}
+{"lat":45.7053401,"lon":9.9189309,"name":"Monte Costa Dei Ronchi","ele":"727","id":513907466}
+{"lat":45.7061849,"lon":9.9288536,"name":"Col Croce","ele":"710","id":513907467}
+{"lat":45.7636986,"lon":9.8705817,"name":"Monte Altinello","ele":"996","id":513907469}
+{"lat":45.7553227,"lon":9.8722837,"name":"Monte Gallo","ele":"821","id":513907470}
+{"lat":45.7785121,"lon":9.9015093,"name":"Monte Crocione","ele":"998","id":513907472}
+{"lat":45.7642291,"lon":9.8515539,"name":"Monte Altino","ele":"1018","id":513907473}
+{"lat":45.7451252,"lon":9.9339074,"name":"Monte Ballerino","ele":"1270","id":513907478}
+{"lat":45.7180864,"lon":9.9392474,"name":"Monte di Grone","ele":"1086","id":513907482}
+{"lat":45.7447644,"lon":9.9471169,"name":"Monte Gremalto","ele":"1322.4","id":513907484}
+{"lat":45.7352175,"lon":9.9882189,"name":"Cima Campidelli","ele":"1175","id":513907485}
+{"lat":45.7137753,"lon":9.9899411,"name":"Punta Piagnola","ele":"1226","id":513907487}
+{"lat":45.7459386,"lon":9.9608175,"name":"Monte Foppa","ele":"1265.3","id":513907488}
+{"lat":45.7272135,"lon":9.9890223,"name":"Colle Martinazzo","ele":"1037","id":513907490}
+{"lat":45.7300843,"lon":9.9707156,"name":"Pizzo della Sellina","ele":"903","id":513907493}
+{"lat":45.7089389,"lon":9.9909656,"name":"Monte Bronzone","ele":"1334","id":513907496}
+{"lat":45.7223151,"lon":9.9505989,"name":"Col Forca","ele":"1048","id":513907498}
+{"lat":45.8993607,"lon":9.4496774,"name":"Monte Due Mani","ele":"1666","id":514612932}
+{"lat":45.758592,"lon":9.62843,"name":"Monte Giacoma","ele":"587","id":534216976}
+{"lat":45.976885,"lon":9.7072426,"name":"Monte Torcola","ele":"1746","id":534221078}
+{"lat":45.9714179,"lon":9.7802819,"name":"I Tre Pizzi","ele":"2167","id":534222843}
+{"lat":45.805127,"lon":9.7201252,"name":"Monte Castello","ele":"1089","id":534225350}
+{"lat":45.8112161,"lon":9.974844,"name":"Monte Grione","ele":"1381","id":534252253}
+{"lat":45.7534378,"lon":9.967358,"name":"Il Coletto","ele":"1296","id":534253696}
+{"lat":45.763791,"lon":9.9828581,"name":"Monte Sicolo","ele":"1273","id":534254581}
+{"lat":45.6769879,"lon":9.9652384,"name":"Il Colle","ele":"490","id":534262272}
+{"lat":45.8434263,"lon":9.3209984,"name":"Monte Rai","ele":"1260","id":544300068}
+{"lat":45.7373621,"lon":9.6961339,"name":"Colle di Ranica","id":581372307}
+{"lat":45.7587221,"lon":9.6520148,"name":"Monte Pissol","ele":"687","id":734873350}
+{"lat":45.8444933,"lon":9.9435989,"name":"Montagnina","ele":"1598","id":858933931}
+{"lat":45.9126664,"lon":9.0683914,"name":"Poncione di Cabbio","id":875592644}
+{"lat":45.7224111,"lon":9.4871379,"name":"Monte Canto","ele":"700","id":1109358364}
+{"lat":45.7587725,"lon":9.3955585,"name":"Monte di San Genesio","ele":"846","id":1144810044}
+{"lat":45.8668376,"lon":9.2043897,"name":"Monte Bul","ele":"1406","id":1301690548}
+{"lat":45.0211086,"lon":9.2149213,"name":"Monte Campone","ele":"351","id":1352887396}
+{"lat":45.8606531,"lon":9.4654841,"name":"Punta Manzoni","ele":"1801","id":1369222282}
+{"lat":45.6723747,"lon":9.795212,"name":"Colle San Giovanni","ele":"290","id":1371298357}
+{"lat":45.933537,"lon":9.0206159,"name":"Baraghetto","ele":"1694","id":1372930301}
+{"lat":45.8823446,"lon":9.1206782,"name":"Punta Forcoletta","ele":"1072","id":1586034576}
+{"lat":45.8372058,"lon":9.1698808,"name":"Dosmat","ele":"1282","id":1652158357}
+{"lat":45.8296158,"lon":9.1874789,"name":"Monte Broncino","ele":"1080","id":1652158374}
+{"lat":45.7785596,"lon":9.7164043,"name":"Costone","ele":"1195","id":1655045627}
+{"lat":45.7739584,"lon":9.7154429,"name":"Filaressa","ele":"1134","id":1655045632}
+{"lat":45.4939922,"lon":9.247202,"name":"Collina del Parco Lambro","ele":"170","id":1664984970}
+{"lat":45.9186476,"lon":9.370645,"name":"Torrione del Pertusio","ele":"1557","id":1805146220}
+{"lat":45.9452682,"lon":9.5769696,"name":"Monte Aralalta","ele":"2003","id":1876921756}
+{"lat":45.8178012,"lon":9.0404899,"name":"Sasso di Cavallasca","ele":"614","id":2175057377}
+{"lat":45.8085361,"lon":9.9953806,"name":"Croce del Grione","ele":"1200","id":2265947146}
+{"lat":45.8636197,"lon":9.4640687,"name":"Cima Pozzi","ele":"1810","id":2318176652}
+{"lat":45.8652289,"lon":9.4620387,"name":"Pan di Zucchero","ele":"1760","id":2318176658}
+{"lat":45.8663653,"lon":9.4617684,"name":"Pizzo dei Galli","id":2318176660}
+{"lat":45.8615579,"lon":9.4640121,"name":"Dente","ele":"1810","id":2318176661}
+{"lat":45.8729183,"lon":9.7764542,"name":"Cima della Croce","ele":"1975","id":2352499028}
+{"lat":45.8446838,"lon":9.477697,"name":"Cima Quarenghi","ele":"1637","id":2367936026}
+{"lat":45.8489592,"lon":9.4777601,"name":"I Solitari","ele":"1667","id":2367936029}
+{"lat":45.854982,"lon":9.4734276,"name":"Pizzo Brumano","ele":"1851","id":2367936032}
+{"lat":45.8458629,"lon":9.4780982,"name":"Cima Piazzo","ele":"1640","id":2370752487}
+{"lat":45.8563018,"lon":9.4723153,"name":"Pizzo Daina","ele":"1864","id":2370752490}
+{"lat":45.8574493,"lon":9.4717903,"name":"Torre di Valnegra","ele":"1852","id":2370752491}
+{"lat":45.9188988,"lon":9.9892787,"name":"Monte Parè","ele":"1642","id":2383393791}
+{"lat":45.9804761,"lon":9.7942859,"name":"Monte Spondone","ele":"2445","id":2383447391}
+{"lat":45.9441357,"lon":9.783712,"name":"Monte Vindiolo","ele":"2056","id":2388946168}
+{"lat":45.8504814,"lon":9.8163385,"name":"Monte Castello","id":2418254451}
+{"lat":45.9866966,"lon":9.7931996,"name":"Pizzo delle Orobie","ele":"2340","id":2497090231}
+{"lat":45.9323777,"lon":9.0878056,"name":"Monte San Zeno","ele":"1025","id":2517724312}
+{"lat":45.9225805,"lon":9.7517796,"name":"Chignol d'Aral","ele":"2068","id":2531234146}
+{"lat":45.9380426,"lon":9.0220381,"name":"Cima della Piancaccia","ele":"1611","id":2606241666}
+{"lat":45.9116267,"lon":9.8263575,"name":"Cima Foppazzi","ele":"2097","id":2617207603}
+{"lat":45.7882352,"lon":9.146478,"name":"Montorfano","ele":"554","id":2899043229}
+{"lat":45.8708172,"lon":9.7799756,"name":"Torrione Brassamonti","id":2918718827}
+{"lat":45.8870085,"lon":9.3774568,"name":"Forcellino","ele":"1280","id":3050635459}
+{"lat":45.9050606,"lon":9.4020573,"name":"Corno del Nibbio Settentrionale","ele":"1368","id":3113742970}
+{"lat":45.9207243,"lon":9.3772894,"name":"Torrione Cecilia","ele":"1803","id":3161876421}
+{"lat":45.8624935,"lon":9.4446519,"name":"Pizzo d'Erna","ele":"1366","id":3167412884}
+{"lat":45.8616204,"lon":9.8899802,"name":"Corno Guazza","id":3168238962}
+{"lat":45.9151113,"lon":9.2404537,"name":"Monte Ponciv","ele":"1452","id":3235333513}
+{"lat":45.8307012,"lon":9.0025325,"name":"Collina del Penz","ele":"562","id":3400664539}
+{"lat":45.8446844,"lon":9.8015403,"name":"Monte Segredònt","id":3526663250}
+{"lat":45.5223784,"lon":9.3430057,"name":"Collina del Masso Erratico","ele":"133","id":3616336837}
+{"lat":45.9921811,"lon":9.8366732,"name":"Cima di Valsanguigno Or.","ele":"2560","id":3620548145}
+{"lat":45.9903939,"lon":9.8339853,"name":"Cima di Valsanguigno Occ.","ele":"2490","id":3620553864}
+{"lat":45.85785,"lon":9.7805092,"name":"Cima di Campelli","id":3643496179}
+{"lat":45.9778382,"lon":9.8099819,"name":"Cima di Mezzeno","ele":"2230","id":3763738112}
+{"lat":45.931274,"lon":9.0198924,"name":"Monte Generoso","ele":"1701","id":3815369518}
+{"lat":45.9613471,"lon":9.7354445,"name":"Falesia \"Porta delle Cornacchie\"","id":3898559961}
+{"lat":45.9613771,"lon":9.7365807,"name":"Falesia \"Porta delle Cornacchie\"","id":3898559962}
+{"lat":45.9200773,"lon":9.3953381,"name":"Sigaro Dones","id":3902717964}
+{"lat":45.8765725,"lon":9.2115316,"name":"Braga di Cavallo","ele":"1354","id":3916414212}
+{"lat":45.8999207,"lon":9.9963599,"name":"Cima Gram","ele":"870","id":3949379224}
+{"lat":45.8978041,"lon":9.2754507,"name":"Monte Colla","ele":"1097","id":3962692247}
+{"lat":45.6652285,"lon":9.787283,"name":"Colle Alto o Colle San Geminiano","ele":"332","id":4078205866}
+{"lat":45.9219388,"lon":9.3773181,"name":"Campaniletto del Rifugio","ele":"1780","id":4083689489}
+{"lat":45.9206924,"lon":9.3761621,"name":"Torrione del Cinquantenario","ele":"1743","id":4083689490}
+{"lat":45.8918364,"lon":9.2724833,"name":"Monte Oriolo","ele":"1092","id":4126936290}
+{"lat":45.905151,"lon":9.0638533,"name":"Dosso D'Arla","ele":"1170","id":4171316008}
+{"lat":45.651756,"lon":9.9007116,"name":"Monte della Croce","ele":"508","id":4230870203}
+{"lat":45.98903,"lon":9.8261633,"name":"Pizzo Farno","ele":"2506","id":4409682491}
+{"lat":45.9215131,"lon":9.3947304,"name":"Torrione Magnaghi Settentrionale","ele":"2078","id":4409711986}
+{"lat":45.9206599,"lon":9.3949842,"name":"Torrione Magnaghi Meridionale","ele":"2040","id":4409711987}
+{"lat":45.9795221,"lon":9.8054011,"name":"Cima di Mezzeno occidentale","id":4449405308}
+{"lat":45.9791856,"lon":9.8158738,"name":"Pizzo Camilla","id":4449405309}
+{"lat":45.9269338,"lon":9.8301236,"name":"Monte Camplano","ele":"2054","id":4451792446}
+{"lat":45.9189073,"lon":9.8240509,"name":"il Cimetto","ele":"1985","id":4452297690}
+{"lat":45.8824343,"lon":9.3839082,"name":"Bocchetta del Portantino","ele":"1001.8","id":4470634116}
+{"lat":45.8611727,"lon":9.924172,"name":"Cima Tagliate","ele":"1094","id":4566610990}
+{"lat":45.9712024,"lon":9.7731717,"name":"Monte Mencucca","ele":"2117","id":4567201684}
+{"lat":45.9670107,"lon":9.768008,"name":"Monte Malfa","id":4567201685}
+{"lat":45.9079236,"lon":9.2806912,"name":"Caval di Barni","ele":"864","id":4713289207}
+{"lat":45.9182144,"lon":9.2825098,"name":"Dos del Grepignan","ele":"620","id":4713289208}
+{"lat":45.9105319,"lon":9.2914362,"name":"Sasso di Onno","ele":"450","id":4713289213}
+{"lat":45.8267244,"lon":9.4732762,"name":"Monte Ocone","id":4772203867}
+{"lat":45.9913192,"lon":9.8410141,"name":"q. 2560","ele":"2560","id":4947338975}
+{"lat":45.0109787,"lon":9.1255349,"name":"Colle Pistornile","ele":"175","id":5056599128}
+{"lat":45.9079648,"lon":9.2552051,"name":"Doss del Fòò","ele":"1080","id":5082761634}
+{"lat":45.1785612,"lon":9.4839994,"name":"Collina della Croce","id":5126188822}

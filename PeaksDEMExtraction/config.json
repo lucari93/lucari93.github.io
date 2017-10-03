@@ -1,0 +1,20 @@
+{
+  "dem_folder": "D:/AmbientiDiSviluppo/Tesi PeakLens/DEM",
+  "country": "resegone",
+  "demType": "dem3",
+  "ridgeness": {
+    "ridgeSteepness": 36,
+    "ridgenessWindow": 5,
+    "elevationThreshold": 0,
+    "ridgenessThreshold": 0.2,
+    "minRidgeSize": 5
+  },
+  "peakness": {
+    "peakSteepness": 5,
+    "peaknessWindow": 5,
+    "elevationThreshold": 0,
+    "peaknessThreshold": 0,
+    "groupSumThreshold": 0.4
+  },
+  "checkInNeighbours": true
+}

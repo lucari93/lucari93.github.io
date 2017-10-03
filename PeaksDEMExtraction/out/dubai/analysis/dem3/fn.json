@@ -1,0 +1,34 @@
+[
+    {
+        "id": 282708823,
+        "name": "Big dune",
+        "realCoord": {
+            "lat": 25.09222,
+            "lon": 55.81132
+        }
+    },
+    {
+        "id": 292348888,
+        "name": "Fossil Rock",
+        "realCoord": {
+            "lat": 25.1428022,
+            "lon": 55.8338701
+        }
+    },
+    {
+        "id": 319032510,
+        "name": "Little Fossil Rock",
+        "realCoord": {
+            "lat": 25.1176434,
+            "lon": 55.8266407
+        }
+    },
+    {
+        "id": 4973423046,
+        "name": "Jebel Ali",
+        "realCoord": {
+            "lat": 25.0287816,
+            "lon": 55.1238225
+        }
+    }
+]
