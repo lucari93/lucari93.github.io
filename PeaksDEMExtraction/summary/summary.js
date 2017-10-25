@@ -5,7 +5,8 @@ $(document).ready(function() {
     "resegone": "Resegone",
     "dubai": "Dubai",
     "everest": "Himalaya - Everest",
-    "aus": "Australia - Olgas"
+    "aus": "Australia - Olgas",
+	"lombardia": "Lombardia"
   }
 
   Object.entries(countries).forEach(function ([id, name]) {
