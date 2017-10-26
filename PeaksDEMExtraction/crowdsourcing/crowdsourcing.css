@@ -1,0 +1,109 @@
+@import url(../node_modules/cesium/Source/Widgets/widgets.css);
+@import url(../node_modules/cesium/Source/Widgets/lighter.css);
+
+/*.cesium-viewer-bottom {
+  visibility: hidden;
+}
+
+.cesium-viewer-toolbar {
+  visibility: hidden;
+}*/
+
+body {
+  padding: 5px;
+  overflow: hidden;
+}
+
+#app {
+  display: none;
+}
+
+.loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -60px 0 0 -60px;
+  border: 16px solid #f3f3f3;
+  /* Light grey */
+  border-top: 16px solid #3498db;
+  /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.y100 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.title {
+  font-size: 4vh;
+}
+
+.fill {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.vcenter {
+  display: flex;
+  align-items: center;
+}
+
+.fillpanel {
+  height: 100%;
+  margin-bottom: 0;
+  display: flex;
+  display: -webkit-flex;
+  flex: 1;
+  flex-flow: column nowrap;
+}
+
+.fillpanel .panel-body {
+  display: flex;
+  -webkit-flex: 2;
+  flex: 2;
+}
+
+.list-group {
+  width: 100%;
+}
+
+.list-group-item {
+  border-left: 0;
+  border-right: 0;
+}
+
+.list-group-item:first-child {
+  border-radius: 0;
+  border-top: 0;
+}
+
+.list-group-item:last-child {
+  border-bottom: 0;
+  border-radius: 0;
+}
+
+.y-scroll {
+  overflow-y: scroll;
+}
+
+.nopadding {
+  padding: 0;
+}
+
+.info {
+  width: 100%;
+}
