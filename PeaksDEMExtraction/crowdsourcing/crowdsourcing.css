@@ -1,5 +1,5 @@
-@import url(../node_modules/cesium/Source/Widgets/widgets.css);
-@import url(../node_modules/cesium/Source/Widgets/lighter.css);
+@import url(https://cesiumjs.org/Cesium/Source/Widgets/widgets.css);
+@import url(https://cesiumjs.org/Cesium/Source/Widgets/lighter.css);
 
 /*.cesium-viewer-bottom {
   visibility: hidden;
